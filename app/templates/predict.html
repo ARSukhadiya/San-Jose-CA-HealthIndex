@@ -1,0 +1,684 @@
+{% extends "base.html" %} {% block content %}
+<div class="flex w-full max-w-8xl bg-white rounded-lg shadow-lg p-6 space-x-4">
+  <div class="w-full lg:w-7/10 p-6">
+    <h2 class="text-2xl font-bold text-center text-gray-800 mb-6">
+      Make Prediction
+    </h2>
+
+    <form method="POST" class="space-y-6">
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-7 gap-6">
+        <!-- Row 1 -->
+        <div>
+          <label for="medhhinc" class="block text-sm font-medium text-gray-700"
+            >Median Household Income ($)</label
+          >
+          <input
+            type="range"
+            id="medhhinc"
+            name="medhhinc"
+            min="0"
+            max="150000"
+            value="75000"
+            class="w-full mt-1 bg-gray-300 rounded-lg"
+          />
+          <output
+            id="medhhincOutput"
+            class="block text-center text-blue-600 font-semibold mt-1"
+            >75000</output
+          >
+        </div>
+
+        <div>
+          <label for="unemp" class="block text-sm font-medium text-gray-700"
+            >Unemployment Rate (%)</label
+          >
+          <input
+            type="range"
+            id="unemp"
+            name="unemp"
+            min="0"
+            max="20"
+            value="4"
+            class="w-full mt-1 bg-gray-300 rounded-lg"
+          />
+          <output
+            id="unempOutput"
+            class="block text-center text-blue-600 font-semibold mt-1"
+            >4</output
+          >
+        </div>
+
+        <div>
+          <label for="famfpl185" class="block text-sm font-medium text-gray-700"
+            >Families Below Poverty Line (%)</label
+          >
+          <input
+            type="range"
+            id="famfpl185"
+            name="famfpl185"
+            min="0"
+            max="100"
+            value="10"
+            class="w-full mt-1 bg-gray-300 rounded-lg"
+          />
+          <output
+            id="famfpl185Output"
+            class="block text-center text-blue-600 font-semibold mt-1"
+            >10</output
+          >
+        </div>
+
+        <div>
+          <label
+            for="chldfpl185"
+            class="block text-sm font-medium text-gray-700"
+            >Children Below Poverty Line (%)</label
+          >
+          <input
+            type="range"
+            id="chldfpl185"
+            name="chldfpl185"
+            min="0"
+            max="100"
+            value="8"
+            class="w-full mt-1 bg-gray-300 rounded-lg"
+          />
+          <output
+            id="chldfpl185Output"
+            class="block text-center text-blue-600 font-semibold mt-1"
+            >8</output
+          >
+        </div>
+
+        <div>
+          <label
+            for="chld_3_4_preschl"
+            class="block text-sm font-medium text-gray-700"
+            >Preschool Enrollment (%)</label
+          >
+          <input
+            type="range"
+            id="chld_3_4_preschl"
+            name="chld_3_4_preschl"
+            min="0"
+            max="100"
+            value="90"
+            class="w-full mt-1 bg-gray-300 rounded-lg"
+          />
+          <output
+            id="chld_3_4_preschlOutput"
+            class="block text-center text-blue-600 font-semibold mt-1"
+            >90</output
+          >
+        </div>
+
+        <!-- Repeat similar blocks for remaining rows with other sliders -->
+        <div hidden>
+          <label for="ed_lt_hs" class="block text-sm font-medium text-gray-700"
+            >Less than High School (%)</label
+          >
+          <input
+            type="range"
+            id="ed_lt_hs"
+            name="ed_lt_hs"
+            min="0"
+            max="100"
+            value="10.5"
+            class="w-full mt-1 bg-gray-300 rounded-lg"
+          />
+          <output
+            id="ed_lt_hsOutput"
+            class="block text-center text-blue-600 font-semibold mt-1"
+            >10.5</output
+          >
+        </div>
+
+        <div hidden>
+          <label for="ed_hsgrad" class="block text-sm font-medium text-gray-700"
+            >High School Graduation Rate (%)</label
+          >
+          <input
+            type="range"
+            id="ed_hsgrad"
+            name="ed_hsgrad"
+            min="0"
+            max="100"
+            value="80"
+            class="w-full mt-1 bg-gray-300 rounded-lg"
+          />
+          <output
+            id="ed_hsgradOutput"
+            class="block text-center text-blue-600 font-semibold mt-1"
+            >80</output
+          >
+        </div>
+
+        <div hidden>
+          <label
+            for="ed_partcoll"
+            class="block text-sm font-medium text-gray-700"
+            >Some College (%)</label
+          >
+          <input
+            type="range"
+            id="ed_partcoll"
+            name="ed_partcoll"
+            min="0"
+            max="100"
+            value="25"
+            class="w-full mt-1 bg-gray-300 rounded-lg"
+          />
+          <output
+            id="ed_partcollOutput"
+            class="block text-center text-blue-600 font-semibold mt-1"
+            >25</output
+          >
+        </div>
+
+        <div hidden>
+          <label
+            for="ed_collgrad"
+            class="block text-sm font-medium text-gray-700"
+            >College Graduate (%)</label
+          >
+          <input
+            type="range"
+            id="ed_collgrad"
+            name="ed_collgrad"
+            min="0"
+            max="100"
+            value="15"
+            class="w-full mt-1 bg-gray-300 rounded-lg"
+          />
+          <output
+            id="ed_collgradOutput"
+            class="block text-center text-blue-600 font-semibold mt-1"
+            >15</output
+          >
+        </div>
+
+        <div hidden>
+          <label for="ed_hs" class="block text-sm font-medium text-gray-700"
+            >High School Completion Rate (%)</label
+          >
+          <input
+            type="range"
+            id="ed_hs"
+            name="ed_hs"
+            min="0"
+            max="100"
+            value="85"
+            class="w-full mt-1 bg-gray-300 rounded-lg"
+          />
+          <output
+            id="ed_hsOutput"
+            class="block text-center text-blue-600 font-semibold mt-1"
+            >85</output
+          >
+        </div>
+
+        <div>
+          <label for="life" class="block text-sm font-medium text-gray-700"
+            >Life Expectancy (years)</label
+          >
+          <input
+            type="range"
+            id="life"
+            name="life"
+            min="0"
+            max="100"
+            value="78.5"
+            class="w-full mt-1 bg-gray-300 rounded-lg"
+          />
+          <output
+            id="lifeOutput"
+            class="block text-center text-blue-600 font-semibold mt-1"
+            >78.5</output
+          >
+        </div>
+
+        <div>
+          <label
+            for="cancer_mort"
+            class="block text-sm font-medium text-gray-700"
+            >Cancer Mortality Rate</label
+          >
+          <input
+            type="range"
+            id="cancer_mort"
+            name="cancer_mort"
+            min="0"
+            max="500"
+            value="180"
+            class="w-full mt-1 bg-gray-300 rounded-lg"
+          />
+          <output
+            id="cancer_mortOutput"
+            class="block text-center text-blue-600 font-semibold mt-1"
+            >180</output
+          >
+        </div>
+
+        <div>
+          <label
+            for="heart_mort"
+            class="block text-sm font-medium text-gray-700"
+            >Heart Disease Mortality Rate</label
+          >
+          <input
+            type="range"
+            id="heart_mort"
+            name="heart_mort"
+            min="0"
+            max="500"
+            value="250"
+            class="w-full mt-1 bg-gray-300 rounded-lg"
+          />
+          <output
+            id="heart_mortOutput"
+            class="block text-center text-blue-600 font-semibold mt-1"
+            >250</output
+          >
+        </div>
+
+        <div>
+          <label
+            for="alzeihmers_mort"
+            class="block text-sm font-medium text-gray-700"
+            >Alzheimer's Mortality Rate</label
+          >
+          <input
+            type="range"
+            id="alzeihmers_mort"
+            name="alzeihmers_mort"
+            min="0"
+            max="100"
+            value="40"
+            class="w-full mt-1 bg-gray-300 rounded-lg"
+          />
+          <output
+            id="alzeihmers_mortOutput"
+            class="block text-center text-blue-600 font-semibold mt-1"
+            >40</output
+          >
+        </div>
+
+        <div>
+          <label
+            for="stroke_mort"
+            class="block text-sm font-medium text-gray-700"
+            >Stroke Mortality Rate</label
+          >
+          <input
+            type="range"
+            id="stroke_mort"
+            name="stroke_mort"
+            min="0"
+            max="100"
+            value="50"
+            class="w-full mt-1 bg-gray-300 rounded-lg"
+          />
+          <output
+            id="stroke_mortOutput"
+            class="block text-center text-blue-600 font-semibold mt-1"
+            >50</output
+          >
+        </div>
+        <div>
+          <label
+            for="respiratory_mort"
+            class="block text-sm font-medium text-gray-700"
+            >Respiratory Mortality Rate</label
+          >
+          <input
+            type="range"
+            id="respiratory_mort"
+            name="respiratory_mort"
+            min="0"
+            max="100"
+            value="70"
+            class="w-full mt-1 bg-gray-300 rounded-lg"
+          />
+          <output
+            id="respiratory_mortOutput"
+            class="block text-center text-blue-600 font-semibold mt-1"
+            >70</output
+          >
+        </div>
+
+        <div>
+          <label
+            for="injury_mort"
+            class="block text-sm font-medium text-gray-700"
+            >Injury Mortality Rate</label
+          >
+          <input
+            type="range"
+            id="injury_mort"
+            name="injury_mort"
+            min="0"
+            max="100"
+            value="30"
+            class="w-full mt-1 bg-gray-300 rounded-lg"
+          />
+          <output
+            id="injury_mortOutput"
+            class="block text-center text-blue-600 font-semibold mt-1"
+            >30</output
+          >
+        </div>
+
+        <div>
+          <label
+            for="diabetes_mort"
+            class="block text-sm font-medium text-gray-700"
+            >Diabetes Mortality Rate</label
+          >
+          <input
+            type="range"
+            id="diabetes_mort"
+            name="diabetes_mort"
+            min="0"
+            max="100"
+            value="25"
+            class="w-full mt-1 bg-gray-300 rounded-lg"
+          />
+          <output
+            id="diabetes_mortOutput"
+            class="block text-center text-blue-600 font-semibold mt-1"
+            >25</output
+          >
+        </div>
+
+        <div>
+          <label
+            for="hyper_mort"
+            class="block text-sm font-medium text-gray-700"
+            >Hypertension Mortality Rate</label
+          >
+          <input
+            type="range"
+            id="hyper_mort"
+            name="hyper_mort"
+            min="0"
+            max="100"
+            value="10"
+            class="w-full mt-1 bg-gray-300 rounded-lg"
+          />
+          <output
+            id="hyper_mortOutput"
+            class="block text-center text-blue-600 font-semibold mt-1"
+            >10</output
+          >
+        </div>
+
+        <div>
+          <label
+            for="flu_pneum_mort"
+            class="block text-sm font-medium text-gray-700"
+            >Flu/Pneumonia Mortality Rate</label
+          >
+          <input
+            type="range"
+            id="flu_pneum_mort"
+            name="flu_pneum_mort"
+            min="0"
+            max="100"
+            value="15"
+            class="w-full mt-1 bg-gray-300 rounded-lg"
+          />
+          <output
+            id="flu_pneum_mortOutput"
+            class="block text-center text-blue-600 font-semibold mt-1"
+            >15</output
+          >
+        </div>
+        <div>
+          <label for="birth" class="block text-sm font-medium text-gray-700"
+            >Birth Rate</label
+          >
+          <input
+            type="range"
+            id="birth"
+            name="birth"
+            min="0"
+            max="200"
+            value="100"
+            class="w-full mt-1 bg-gray-300 rounded-lg"
+          />
+          <output
+            id="birthOutput"
+            class="block text-center text-blue-600 font-semibold mt-1"
+            >100</output
+          >
+        </div>
+
+        <div>
+          <label for="birth_lw" class="block text-sm font-medium text-gray-700"
+            >Low Birth Weight (%)</label
+          >
+          <input
+            type="range"
+            id="birth_lw"
+            name="birth_lw"
+            min="0"
+            max="20"
+            value="5"
+            class="w-full mt-1 bg-gray-300 rounded-lg"
+          />
+          <output
+            id="birth_lwOutput"
+            class="block text-center text-blue-600 font-semibold mt-1"
+            >5</output
+          >
+        </div>
+
+        <div>
+          <label for="birth_pt" class="block text-sm font-medium text-gray-700"
+            >Premature Birth (%)</label
+          >
+          <input
+            type="range"
+            id="birth_pt"
+            name="birth_pt"
+            min="0"
+            max="20"
+            value="7"
+            class="w-full mt-1 bg-gray-300 rounded-lg"
+          />
+          <output
+            id="birth_ptOutput"
+            class="block text-center text-blue-600 font-semibold mt-1"
+            >7</output
+          >
+        </div>
+
+        <div>
+          <label
+            for="preg_overobese"
+            class="block text-sm font-medium text-gray-700"
+            >Overweight Pregnancy (%)</label
+          >
+          <input
+            type="range"
+            id="preg_overobese"
+            name="preg_overobese"
+            min="0"
+            max="100"
+            value="30"
+            class="w-full mt-1 bg-gray-300 rounded-lg"
+          />
+          <output
+            id="preg_overobeseOutput"
+            class="block text-center text-blue-600 font-semibold mt-1"
+            >30</output
+          >
+        </div>
+
+        <div>
+          <label
+            for="preg_prenatal"
+            class="block text-sm font-medium text-gray-700"
+            >Prenatal Care (%)</label
+          >
+          <input
+            type="range"
+            id="preg_prenatal"
+            name="preg_prenatal"
+            min="0"
+            max="100"
+            value="90"
+            class="w-full mt-1 bg-gray-300 rounded-lg"
+          />
+          <output
+            id="preg_prenatalOutput"
+            class="block text-center text-blue-600 font-semibold mt-1"
+            >90</output
+          >
+        </div>
+
+        <!-- Last row example -->
+        <div>
+          <label
+            for="birth_teen"
+            class="block text-sm font-medium text-gray-700"
+            >Teen Birth Rate</label
+          >
+          <input
+            type="range"
+            id="birth_teen"
+            name="birth_teen"
+            min="0"
+            max="100"
+            value="20"
+            class="w-full mt-1 bg-gray-300 rounded-lg"
+          />
+          <output
+            id="birth_teenOutput"
+            class="block text-center text-blue-600 font-semibold mt-1"
+            >20</output
+          >
+        </div>
+
+        <div>
+          <label for="smoker" class="block text-sm font-medium text-gray-700"
+            >Smoking Rate (%)</label
+          >
+          <input
+            type="range"
+            id="smoker"
+            name="smoker"
+            min="0"
+            max="100"
+            value="15"
+            class="w-full mt-1 bg-gray-300 rounded-lg"
+          />
+          <output
+            id="smokerOutput"
+            class="block text-center text-blue-600 font-semibold mt-1"
+            >15</output
+          >
+        </div>
+
+        <div>
+          <label
+            for="obese_adult"
+            class="block text-sm font-medium text-gray-700"
+            >Adult Obesity Rate (%)</label
+          >
+          <input
+            type="range"
+            id="obese_adult"
+            name="obese_adult"
+            min="0"
+            max="100"
+            value="25"
+            class="w-full mt-1 bg-gray-300 rounded-lg"
+          />
+          <output
+            id="obese_adultOutput"
+            class="block text-center text-blue-600 font-semibold mt-1"
+            >25</output
+          >
+        </div>
+
+        <div>
+          <label
+            for="overobese_teen"
+            class="block text-sm font-medium text-gray-700"
+            >Teen Overweight/Obesity Rate (%)</label
+          >
+          <input
+            type="range"
+            id="overobese_teen"
+            name="overobese_teen"
+            min="0"
+            max="100"
+            value="20"
+            class="w-full mt-1 bg-gray-300 rounded-lg"
+          />
+          <output
+            id="overobese_teenOutput"
+            class="block text-center text-blue-600 font-semibold mt-1"
+            >20</output
+          >
+        </div>
+
+        <div>
+          <label
+            for="overobese_child"
+            class="block text-sm font-medium text-gray-700"
+            >Child Overweight/Obesity Rate (%)</label
+          >
+          <input
+            type="range"
+            id="overobese_child"
+            name="overobese_child"
+            min="0"
+            max="100"
+            value="18"
+            class="w-full mt-1 bg-gray-300 rounded-lg"
+          />
+          <output
+            id="overobese_childOutput"
+            class="block text-center text-blue-600 font-semibold mt-1"
+            >18</output
+          >
+        </div>
+      </div>
+
+      <button
+        type="submit"
+        class="w-full py-3 px-6 bg-blue-600 text-white font-bold text-lg rounded-lg hover:bg-blue-700 transition"
+      >
+        Predict
+      </button>
+    </form>
+  </div>
+
+  <!-- Prediction results section (30%) -->
+  <div class="w-full lg:w-3/10 p-6 bg-gray-100 rounded-lg">
+    <h2 class="text-xl font-bold text-center text-gray-800 mb-4">
+      Predicted Value
+    </h2>
+    <p class="text-gray-700 text-center">
+      {% if prediction %}
+      <span class="font-semibold text-blue-600">{{ prediction }}</span>
+      {% else %}
+      <span class="text-gray-500">Prediction results will appear here.</span>
+      {% endif %}
+    </p>
+  </div>
+</div>
+
+<!-- JavaScript for updating output values dynamically -->
+<script>
+  document.querySelectorAll("input[type='range']").forEach((slider) => {
+    const output = document.getElementById(`${slider.id}Output`);
+    output.value = slider.value;
+    slider.addEventListener("input", (e) => {
+      output.textContent = e.target.value;
+    });
+  });
+</script>
+{% endblock %}

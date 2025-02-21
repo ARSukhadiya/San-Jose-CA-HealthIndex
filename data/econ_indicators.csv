@@ -1,0 +1,13 @@
+category,name,value,date,prev_year,change_from_prev_year,source,detail1,detail2
+Jobs,Total Payroll Jobs,"389,794",16-Sep,"389,737",0.00%,California Employment Development Department,MONTH-JOBS-TOTAL,SAN-JOSE-JOBS-BY-SECTO
+Jobs,Unemployment Rate,3.90%,17-Jun,4.50%,-0.60%,California Employment Development Department,MONTH-UNEMP-RATE,
+Jobs,Labor Force,"544,600",17-Jun,"554,400",-1.80%,California Employment Development Department,LABOR-FORCE-BY-AGE,
+Talent,Population with Bachelor's Degree,38.80%,2015,38%,0.60%,"US Census Bureau, American Community Survey 5-year Estimates",EDUCA-ATTAI-FOR-SAN-JOSE,
+Talent,Foreign Born Population,39%,2015,39%,-0.10%,"US Census Bureau, American Community Survey 5-year Estimates",SAN-JOSE-FOREI-BORN-61329,
+Talent,Tech Worker Residents,"65,236",2015,"62,668",4.70%,"US Census Bureau, American Community Survey 5-year Estimates",,
+Real Estate,Office Vacancy,9.00%,Q1 2017,9.10%,-0.10%,Colliers,,
+Real Estate,R&D Vacancy,11.50%,Q1 2017,10.40%,0.90%,Colliers,,
+Real Estate,Industrial Vacancy,4.30%,Q1 2017,1.00%,3.30%,Colliers,,
+Housing,Average Apartment Rent,"$2,509",17-Jun,"$2,548",-1.53%,Rent Jungle,MONTH-APART-RENTS,
+Housing,Apartment Vacancy Rate,5.40%,17-Apr,4.30%,1.10%,Costar,QUART-APART-VACAN-RATES,
+Housing,Single-Family Home Median Sales Price,"$996,000",17-Jun,"$920,000",8.26%,Santa Clara County Association of Realtors,MEDIA-HOME-PRICE,

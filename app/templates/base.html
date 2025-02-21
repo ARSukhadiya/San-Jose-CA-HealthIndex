@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Health Analysis</title>
+    <!-- Tailwind CSS CDN -->
+    <link
+      href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css"
+      rel="stylesheet"
+    />
+    <style>
+      /* Custom styles for background */
+      .background-image {
+        background-image: url("https://img.freepik.com/premium-vector/abstract-medical-global-connectivity-suitable-healthcare-medical-topic-dark-blue-color-background_43778-441.jpg");
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+      }
+    </style>
+  </head>
+  <body class="background-image font-sans antialiased">
+    <!-- Navbar -->
+    <nav
+      class="bg-blue-700 text-white py-4 px-8 fixed w-full top-0 shadow-lg z-10"
+    >
+      <div class="container mx-auto flex justify-between items-center">
+        <h1 class="text-xl font-bold">
+          <a href="{{ url_for('home') }}" class="hover:text-blue-300"
+            >HealthCare Analysis & Prediction</a
+          >
+        </h1>
+        <div class="space-x-6">
+          <a href="{{ url_for('home') }}" class="hover:text-blue-300">Home</a>
+          <a href="{{ url_for('visualize') }}" class="hover:text-blue-300"
+            >Data Analysis</a
+          >
+          <a href="{{ url_for('metric_report') }}" class="hover:text-blue-300"
+            >Metric Report</a
+          >
+
+          <a href="{{ url_for('predict') }}" class="hover:text-blue-300"
+            >Make Prediction</a
+          >
+        </div>
+      </div>
+    </nav>
+
+    <!-- Main Content with reduced background opacity -->
+    <div
+      class="pt-20 px-6 container mx-auto bg-gray-100 bg-opacity-70 rounded-lg shadow-lg p-8 mt-6"
+    >
+      {% with messages = get_flashed_messages(with_categories=true) %} {% if
+      messages %} {% for category, message in messages %}
+      <div
+        class="bg-{{ category == 'info' and 'blue' or 'red' }}-100 text-{{ category == 'info' and 'blue' or 'red' }}-700 border border-{{ category == 'info' and 'blue' or 'red' }}-500 rounded px-4 py-2 mb-4"
+      >
+        {{ message }}
+      </div>
+      {% endfor %} {% endif %} {% endwith %} {% block content %}{% endblock %}
+    </div>
+  </body>
+</html>

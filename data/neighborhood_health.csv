@@ -1,0 +1,110 @@
+OBJECTID,NGBRHD2,NGBRHDSHRT,NGBRHDALT,life,cancer_mort,heart_mort,alzeihmers_mort,stroke_mort,respiratory_mort,injury_mort,diabetes_mort,hyper_mort,flu_pneum_mort,birth,birth_lw,birth_pt,preg_overobese,preg_prenatal,birth_teen,smoker,obese_adult,overobese_teen,overobese_child,Shape__Area,Shape__Length
+1,San Tomas - South,San Tomas - S.,San Tomas - South,83.0,140.3,135.8,,,,,,,,10.5,7,8,35,77,6.5,10% to 11%,16% to 20%,17% to 22%,10% to 15%,7319634.34765625,12315.5824610887
+2,Winchester East,Winchester E.,Winchester East,83.0,141.4,137.9,,,,,,,,13.3,6,9,35,75,17.0,13% to 16%,15% to 16%,17% to 22%,6% to 8%,8777026.39453125,17030.5072725975
+3,Winchester West,Winchester W.,Winchester West,84.0,139.5,124.8,,,33.5,,,,,12.6,4,7,38,76,10.8,13% to 16%,16% to 20%,17% to 22%,8% to 10%,4690237.98828125,10996.6630681402
+4,Cupertino - Eastside,Cupertino - E.side,Cupertino - Eastside,86.0,121.4,102.9,25.5,28.1,20.3,25.1,,,,9.8,7,9,23,78,2.3,9,14,11% to 17%,0% to 6%,11325214.3320313,15831.1056527688
+5,Cupertino - Northside,Cupertino - N.side,Cupertino - Northside,87.0,93.4,96.7,,,,,,,,9.9,6,8,28,80,1.0,8% to 10%,1% to 15%,11% to 17%,0% to 6%,6347471.2109375,12876.7008903513
+6,Cupertino - Southside,Cupertino - S.side,Cupertino - Southside,86.0,109.8,144.2,,,,,,,,5.6,3,7,26,77,1.1,3% to 8%,1% to 15%,0% to 11%,0% to 6%,4279796.09375,9112.54458655416
+7,Cupertino - Westside,Cupertino - W.side,Cupertino - Westside,86.0,107.0,101.1,50.7,25.2,17.6,21.9,,,15.7,5.0,6,9,21,79,0.9,3% to 8%,1% to 15%,0% to 11%,0% to 6%,27192067.9257813,26244.2095840154
+8,Gilroy - East Side,Gilroy - E. Side,Gilroy - East Side,79.0,120.0,151.8,65.5,,,,,,,20.9,7,10,58,68,54.0,10% to 11%,23% to 31%,11% to 17%,10% to 15%,6765843.2421875,15050.22413678
+9,Gilroy - North Central,Gilroy - N. Cent.,Gilroy - North Central,81.0,154.3,153.3,,,,,,,,17.5,6,10,57,74,41.2,11% to 13%,23% to 31%,26% to 38%,10% to 15%,7438548.45703125,11228.2036489664
+10,Gilroy - South Central,Gilroy - S. Cent.,Gilroy - South Central,82.0,145.3,161.7,46.7,,,,41.6,,,15.0,7,12,50,74,42.7,10% to 11%,23% to 31%,22% to 26%,10% to 15%,11383193.7109375,16756.4817111554
+11,Gilroy - West Side,Gilroy - W. Side,Gilroy - West Side,82.0,136.7,182.9,52.2,,44.6,,,,,12.0,9,12,49,79,9.8,8% to 10%,23% to 31%,22% to 26%,10% to 15%,57750935.5625,50368.8982395517
+12,Los Altos - North,Los Altos - N.,Los Altos/Los Altos Hills - North,88.0,112.2,86.9,,,,,,,,6.7,6,10,19,88,0.0,3% to 8%,1% to 15%,0% to 11%,0% to 6%,10485451.5859375,16649.839185825
+13,Los Altos - South,Los Altos - S.,Los Altos/Los Altos Hills - South,88.0,112.2,86.9,,,,,,,,6.4,9,12,19,85,0.0,3% to 8%,1% to 15%,0% to 11%,0% to 6%,16035903.640625,30099.7982255581
+14,Foothills,Foothills,Foothills,84.0,138.3,107.7,,45.2,,27.0,37.9,,,4.3,5,8,16,87,0.0,3% to 8%,1% to 15%,0% to 11%,0% to 6%,38954918.46875,37577.3280878962
+15,Los Gatos - Eastern,Los Gatos - E.,Los Gatos - Eastern,84.0,127.5,120.7,36.9,26.5,23.8,24.5,16.2,,,7.4,7,9,24,80,2.3,3% to 8%,15% to 16%,0% to 11%,6% to 8%,43375879.2734375,37642.1075515463
+16,Milpitas - Northcentral,Milpitas - N.Cent.,Milpitas - Northcentral,85.0,163.1,108.2,,,,,,,,9.6,9,10,35,69,5.9,3% to 8%,15% to 16%,17% to 22%,6% to 8%,6766358.83984375,11670.0960521478
+17,Milpitas - Northeastern,Milpitas - N.E.,Milpitas - Northeastern,84.0,118.2,112.7,,,,,,,,11.5,10,10,39,69,12.4,8% to 10%,16% to 20%,22% to 26%,10% to 15%,28523722.5976563,24733.298185079
+18,Milpitas - Northwestern,Milpitas - N.W.,Milpitas - Northwestern,85.0,136.7,92.0,,,,,,,,13.4,8,9,35,71,13.2,8% to 10%,16% to 20%,22% to 26%,8% to 10%,6737013.40625,12281.3408089157
+19,Milpitas - Southeastern,Milpitas - S.E.,Milpitas - Southeastern,83.0,145.2,126.8,,,,36.6,,,,13.4,7,10,33,70,17.4,8% to 10%,16% to 20%,17% to 22%,10% to 15%,19886352.8046875,22762.3608279695
+20,Milpitas - Southwestern,Milpitas - S.W.,Milpitas - Southwestern,84.0,104.3,127.1,,,,,,,,16.8,9,10,31,74,13.4,11% to 13%,16% to 20%,17% to 22%,8% to 10%,12723182.2070313,14877.8143390922
+21,Morgan Hill - Eastern,Morgan Hill - E.,Morgan Hill - Eastern,83.0,145.8,148.9,53.1,,,,,,,10.1,6,11,41,77,13.8,3% to 8%,20% to 23%,11% to 17%,6% to 8%,37565859.0078125,31033.652140375
+22,Morgan Hill - Southern,Morgan Hill - S.,Morgan Hill - Southern,82.0,165.3,142.6,42.1,39.0,36.5,,,,,13.4,6,9,50,77,21.4,10% to 11%,23% to 31%,17% to 22%,8% to 10%,19144299.3359375,19622.6221354166
+23,Morgan Hill - Western,Morgan Hill - W.,Morgan Hill - Western,83.0,125.4,144.8,41.4,33.0,42.8,,29.0,,,12.4,5,9,48,74,22.9,10% to 11%,23% to 31%,11% to 17%,8% to 10%,43390291.8867188,35349.1843380273
+24,Grant Road / Sylvan Park,Grant Rd. / Sylvan Park,Grant Road / Sylvan Park,86.0,153.2,109.6,32.8,,,,,,,12.4,10,11,30,81,7.2,10% to 11%,1% to 15%,0% to 11%,0% to 6%,6063140.921875,14003.0038981204
+25,Miramonte/Springer Road,Miramonte/Springer Rd.,Miramonte/Springer Road,84.0,104.3,127.1,,,,,,,,13.4,6,7,23,80,2.8,8% to 10%,15% to 16%,0% to 11%,6% to 8%,6377143.52734375,15473.0156360606
+26,Moffett/Whisman Road,Moffett/Whisman Rd.,Moffett/Whisman Road,84.0,160.7,129.2,52.8,,,,,,,17.6,5,8,33,81,16.9,11% to 13%,15% to 16%,22% to 26%,6% to 8%,54125874.484375,41504.8046034247
+27,Monta Loma/Farley/Rock Street,Monta Loma/Farley/Rock St.,Monta Loma/Farley/Rock Street,84.0,163.6,105.8,,,,,,,,16.3,8,9,32,81,12.9,11% to 13%,15% to 16%,17% to 22%,6% to 8%,7545341.30859375,12051.8158452805
+28,Mountain View - Central Neighborhoods,Mtn. View - Cent. Nbrhds.,Mountain View - Central Neighborhoods,84.0,106.4,124.4,,,,,,,,16.2,8,11,31,79,20.5,13% to 16%,15% to 16%,17% to 22%,6% to 8%,4890554.1328125,9814.26011346802
+29,San Antonio / Rengstorff,San Antonio / Rengstorff,San Antonio / Rengstorff,83.0,140.3,135.8,,,,,,,,16.2,8,9,33,81,27.0,13% to 16%,15% to 16%,0% to 11%,8% to 10%,3556649.3515625,8697.08815160213
+30,Barron Park / Green Acres,Barron Park / Gr. Acres,Barron Park / Green Acres,87.0,109.9,86.9,34.0,,,,,,,8.4,4,6,20,85,2.3,8% to 10%,1% to 15%,11% to 17%,0% to 6%,28708397.9882813,28624.8644370712
+31,Downtown North / Crescent Park,Dwntn. N. / Crescent Park,Downtown North / Crescent Park,87.0,118.0,84.8,31.9,13.5,20.6,,,10.7,,12.1,7,10,15,87,1.9,3% to 8%,1% to 15%,0% to 11%,0% to 6%,7296077.42578125,22345.0601383125
+32,Midtown North / Palo Verde / Charleston Gardens,Midtown N. / P.V. / Chrlstn. Gard.,Midtown North / Palo Verde / Charleston Gardens,87.0,111.9,72.8,28.7,,,,,,,8.5,7,7,21,85,2.3,3% to 8%,1% to 15%,0% to 11%,0% to 6%,6654556.9140625,11558.9624725533
+33,Midtown South / Ventura / Charleston Meadow,Midtown S. / Ventura / Chrlstn. Meadow,Midtown South / Ventura / Charleston Meadow,87.0,116.8,84.1,40.0,,,,,,,9.7,7,7,21,82,2.9,8% to 10%,1% to 15%,11% to 17%,0% to 6%,8008229.41796875,13328.4967180125
+34,Professorville / Old PA / Duveneck / St Francis,P.ville / Old PA / Duv. / St Francis,Professorville / Old PA / Duveneck / St Francis,88.0,104.1,81.4,25.7,20.5,,,,,,7.4,5,7,17,88,0.5,3% to 8%,1% to 15%,0% to 11%,0% to 6%,7496110.29296875,14574.5787852853
+35,Stanford,Stanford,Stanford,,,,,,,,,,,6.9,5,6,12,83,0.0,3% to 8%,1% to 15%,0% to 11%,0% to 6%,8460792.05078125,13975.9823694925
+36,Almaden Valley,Almaden Vly.,Almaden Valley,84.0,123.2,128.9,25.9,20.2,22.6,20.3,19.2,19.9,,7.8,5,8,36,80,8.1,6,19,11% to 17%,8% to 10%,20446078.6132813,24966.4644473727
+37,Alum Rock West,Alum Rock W.,Alum Rock West,82.0,135.4,109.5,43.7,31.2,20.3,27.5,42.7,23.9,,15.4,7,10,50,69,34.6,12,22,26% to 38%,15% to 21%,9298899.34765625,13195.1386461178
+38,Alum Rock / East Foothills,Alum Rock / E. Fthls.,Alum Rock / East Foothills,84.0,117.6,131.3,35.5,,,,,,,10.8,6,8,45,69,23.9,8% to 10%,23% to 31%,26% to 38%,10% to 15%,29407761.8046875,38937.5044262774
+39,Berryessa,Berryessa,Berryessa,83.0,155.0,110.0,25.5,32.4,28.3,19.1,31.6,13.6,14.2,11.6,8,10,31,66,13.4,10,18,22% to 26%,8% to 10%,44887821.6953125,35595.7957222681
+40,Blossom Valley,Blossom Vly.,Blossom Valley,82.0,156.6,115.7,,37.7,32.4,30.6,,,,13.6,7,8,45,74,17.2,10,21,22% to 26%,8% to 10%,10113801.2109375,14751.5097641843
+41,Branham / Pearl,Branham / Pearl,Branham / Pearl,61.0,645.9,416.4,49.7,136.9,71.3,,,,,12.6,7,9,44,74,11.5,10% to 11%,20% to 23%,22% to 26%,10% to 15%,9051499.4609375,16846.1166010178
+42,Brookwood Terrace,Brookwood Terrace,Brookwood Terrace,67.0,417.0,217.1,,,,,,,,18.4,5,6,51,71,58.5,13% to 16%,23% to 31%,26% to 38%,15% to 21%,3216714.02734375,8106.37286549074
+43,Calabazas,Calabazas,Calabazas,87.0,132.9,91.5,23.0,22.7,,,24.4,,,4.9,8,10,18,80,1.1,3% to 8%,1% to 15%,0% to 11%,0% to 6%,8958122.69921875,12659.1536114758
+44,Cambrian Park East,Cambrian Park E.,Cambrian Park East,82.0,157.0,132.2,40.0,,33.5,,31.7,,,13.2,5,8,41,74,13.8,11% to 13%,20% to 23%,22% to 26%,10% to 15%,6996018.34765625,12250.4686796619
+45,Cambrian Park East Central,Cambrian Park E. Cent.,Cambrian Park East Central,83.0,152.7,130.5,35.4,25.9,24.7,31.4,32.9,,20.4,12.5,6,9,38,76,11.4,8% to 10%,20% to 23%,17% to 22%,8% to 10%,9429271.48828125,14660.3322800407
+46,Cambrian Park West,Cambrian Park W.,Cambrian Park West,83.0,159.4,120.5,53.0,31.4,29.3,25.7,,,,11.3,6,9,32,79,4.7,8% to 10%,16% to 20%,11% to 17%,6% to 8%,8019943.9921875,14087.3009467548
+47,Cambrian Park West Central,Cambrian Park W. Cent.,Cambrian Park West Central,82.0,155.3,135.9,40.2,32.6,29.6,30.3,24.7,,19.3,11.7,7,9,39,77,12.3,11,21,22% to 26%,8% to 10%,14590089.4882813,23244.911556163
+48,Canoas East,Canoas E.,Canoas East,82.0,150.2,123.4,38.7,,28.4,26.4,,,,12.3,8,10,44,77,17.5,12,22,22% to 26%,10% to 15%,10002947.75,15976.302770864
+49,Capital Goss,Capital Goss,Capital Goss,83.0,133.2,124.0,,49.1,27.8,,28.7,,,17.2,6,10,50,70,49.8,11% to 13%,23% to 31%,26% to 38%,15% to 21%,5700278.08984375,10094.9370669738
+50,Communications Hill,Comm. Hill,Communications Hill,82.0,189.4,126.7,,,38.8,40.6,,,,19.5,7,8,34,78,19.1,10% to 11%,15% to 16%,22% to 26%,6% to 8%,8994203.28125,12229.7054711436
+51,Coyote Valley,Coyote Vly.,Coyote Valley,80.0,150.9,176.5,,,,,,,,12.6,6,10,46,77,22.2,10% to 11%,20% to 23%,26% to 38%,10% to 15%,94258394.8203125,48958.9741121058
+52,Edenvale / Great Oaks,Edenvale / Great Oaks,Edenvale / Great Oaks,82.0,139.9,143.4,,,,27.2,44.0,,,16.9,6,9,53,74,36.3,11% to 13%,23% to 31%,22% to 26%,15% to 21%,6074144.63671875,11894.5280817221
+53,Edenvale / Seven Trees,Edenvale / Seven Trees,Edenvale / Seven Trees,81.0,161.4,128.5,,,,24.6,,,,16.4,7,9,48,72,41.9,11% to 13%,23% to 31%,26% to 38%,15% to 21%,8328824.234375,12441.2256638503
+54,Evergreen Central,EverGr. Cent.,Evergreen Central,83.0,142.5,108.0,49.8,29.1,,29.5,35.4,,,12.2,9,11,38,72,22.3,8% to 10%,20% to 23%,26% to 38%,8% to 10%,8206377.54296875,12984.8799447771
+55,Evergreen East,EverGr. E.,Evergreen East,85.0,129.6,107.3,28.3,26.5,,,24.4,,,8.4,8,9,29,75,5.2,5,16,11% to 17%,0% to 6%,41450211.0585938,32553.2184705611
+56,Evergreen North,EverGr. N.,Evergreen North,84.0,138.3,107.7,,45.2,,27.0,37.9,,,12.0,9,11,38,70,16.2,10,19,26% to 38%,10% to 15%,10655914.4335938,14907.8728365393
+57,Alum Rock East,Alum Rock E.,Alum Rock East,82.0,146.0,109.6,38.5,,38.4,,50.8,,,17.1,6,8,53,68,38.5,13% to 16%,23% to 31%,26% to 38%,15% to 21%,5334096.96875,9970.04442730224
+58,Guadalupe / Washington,Guadalupe / Washington,Guadalupe / Washington,81.0,146.5,131.2,,,,51.2,,,,20.2,5,9,57,74,60.4,13% to 16%,23% to 31%,26% to 38%,15% to 21%,2871998.61328125,7814.68780559654
+59,Hayes / Tradewinds,Hayes / Tradewinds,Hayes / Tradewinds,82.0,156.2,150.5,,,,,,,,14.1,7,9,46,72,29.1,13% to 16%,23% to 31%,22% to 26%,15% to 21%,5720767.09375,10916.1168705257
+60,Mayfair,Mayfair,Mayfair,82.0,155.2,122.0,,,,,45.7,,,18.8,5,10,52,70,51.8,11% to 13%,23% to 31%,26% to 38%,15% to 21%,4345755.65234375,9271.18761032528
+61,North San Jose,N. S.J.,North San Jose,82.0,190.7,116.5,,,,,,,,24.7,9,9,31,76,23.6,11,16,17% to 22%,8% to 10%,142941849.96875,70836.2759998815
+62,North Willow Glen / Gardner,N. Willow Glen / Gardner,North Willow Glen / Gardner,83.0,144.8,124.7,41.8,,,,,,,16.0,6,10,40,73,14.5,13% to 16%,16% to 20%,11% to 17%,6% to 8%,4542127.56640625,13344.1428508394
+63,Parkview / Vista Park,Parkview / Vista Park,Parkview / Vista Park,83.0,148.4,140.3,,,,25.5,,,,14.9,7,9,42,73,14.5,11% to 13%,20% to 23%,17% to 22%,15% to 21%,8912921.7578125,14240.8673780751
+64,Rose Garden,Rose Garden,Rose Garden,82.0,145.3,140.0,40.8,27.6,48.0,23.1,,,23.2,13.6,7,9,38,73,7.4,12,16,11% to 17%,6% to 8%,12147456.5273438,21381.5878595369
+65,San Jose - Downtown,S.J. - Dwntn.,San Jose - Downtown,82.0,127.9,131.4,,30.6,,33.8,,,,12.9,7,9,42,69,27.9,15,16,17% to 22%,8% to 10%,13548551.9609375,23618.0130137496
+66,San Jose - East Foothills,S.J. - E. Fthls.,San Jose - East Foothills,82.0,173.1,133.4,51.7,37.5,,,,,,14.9,6,9,48,69,34.6,10% to 11%,23% to 31%,26% to 38%,15% to 21%,29444193.7265625,35105.7185441427
+67,San Jose - East Valley,S.J. - E. Vly.,San Jose - East Valley,81.0,150.0,131.8,29.0,38.6,25.8,29.7,44.2,36.1,,18.5,6,10,53,70,54.8,12,28,26% to 38%,15% to 21%,9183656.9453125,16041.0505319485
+68,San Jose - East Valley / 680,S.J. - E. Vly. / 680,San Jose - East Valley / 680,84.0,123.0,130.0,,,,,29.0,30.1,,13.0,8,10,39,68,18.5,10% to 11%,20% to 23%,26% to 38%,10% to 15%,6731007.08203125,10376.7755967099
+69,San Jose - North Valley,S.J. - N. Vly.,San Jose - North Valley,86.0,134.7,83.1,22.5,33.7,19.4,17.9,28.9,,,16.7,8,9,29,70,15.2,11,16,22% to 26%,8% to 10%,24393262.5859375,20539.2879292839
+70,San Jose - Northside,S.J. - N.side,San Jose - Northside,82.0,126.6,116.3,38.8,28.2,29.0,42.3,36.8,,17.9,15.9,6,10,49,72,41.9,16,24,17% to 22%,15% to 21%,8677749.6171875,12375.8457871418
+71,San Jose - University,S.J. - University,San Jose - University,81.0,197.7,125.5,,,,59.9,,,,8.4,7,11,46,76,7.8,13% to 16%,1% to 15%,0% to 11%,8% to 10%,3496127.1953125,8577.86463279695
+72,San Tomas - North,San Tomas - N.,San Tomas - North,82.0,139.1,137.2,57.3,27.6,36.0,31.3,,,,12.8,6,9,36,74,11.7,10,20,22% to 26%,8% to 10%,10029286.4882813,20377.8499358523
+73,Santa Teresa,Santa Teresa,Santa Teresa,82.0,189.3,122.5,,,,,36.9,,,13.0,7,11,46,75,14.8,9,22,26% to 38%,10% to 15%,17008772.0078125,22858.5550736022
+74,Silver Creek / Basking Ridge,Silver Creek / Basking Ridge,Silver Creek / Basking Ridge,86.0,134.8,97.0,31.5,23.7,15.8,,13.7,,,9.5,7,9,27,76,5.5,4,16,11% to 17%,6% to 8%,64559421.2421875,38257.3773463667
+75,South Almaden Valley,S. Almaden Vly.,South Almaden Valley,83.0,130.0,108.6,36.8,33.3,,29.3,,,,5.5,8,9,32,80,0.3,3% to 8%,16% to 20%,0% to 11%,6% to 8%,101777459.210938,82056.2282273362
+76,Spartan Keys / Monterey Corridor,Spartan Keys / Monterey Corr.,Spartan Keys / Monterey Corridor,82.0,146.2,133.6,,26.8,44.0,28.4,36.3,,,15.1,7,10,45,71,35.1,13,23,17% to 22%,15% to 21%,17809040.859375,24653.7052353925
+77,Meadows,Meadows,Meadows,83.0,136.6,109.9,,,,,,,,15.3,6,8,45,66,30.2,11% to 13%,23% to 31%,17% to 22%,15% to 21%,2368269.04296875,6986.65577807192
+78,Tully King,Tully King,Tully King,83.0,143.4,109.8,45.7,36.0,,,52.8,,,14.6,7,9,44,72,33.3,10% to 11%,20% to 23%,26% to 38%,15% to 21%,5974248.76953125,9908.04331148458
+79,Tully Ocala,Tully Ocala,Tully Ocala,81.0,164.9,136.2,,,,,,,,17.6,6,9,54,68,54.1,11% to 13%,23% to 31%,26% to 38%,15% to 21%,3973918.27734375,13934.2685514046
+80,Kennedy Santee,Kennedy Santee,Kennedy Santee,84.0,99.2,118.8,,,,,,,,17.2,6,10,47,73,52.6,11% to 13%,20% to 23%,22% to 26%,15% to 21%,4882397.32421875,9963.83111260035
+81,West Evergreen,W. EverGr.,West Evergreen,83.0,164.6,122.5,,,,,,,,13.5,7,9,38,67,22.4,10% to 11%,20% to 23%,26% to 38%,10% to 15%,4372535.91015625,8747.43549363588
+82,West San Carlos / Burbank,W. San Carlos / Burbank,West San Carlos / Burbank,80.0,177.8,157.7,50.4,29.8,48.2,25.2,27.2,,,16.2,7,9,51,73,37.2,15,24,11% to 17%,15% to 21%,9453456.18359375,13744.7747520589
+83,West San Jose,W. S.J.,West San Jose,83.0,149.3,117.5,34.1,34.6,28.7,27.3,,22.2,,14.1,7,9,37,75,20.9,12,19,11% to 17%,10% to 15%,12056080.5429688,16844.9250530214
+84,Willow Glen,Willow Glen,Willow Glen,82.0,143.5,128.1,42.9,26.0,30.5,33.1,26.1,13.1,19.9,13.2,8,10,41,76,16.2,11,20,17% to 22%,10% to 15%,15799767.640625,25788.3291291657
+85,Willow Glen South,Willow Glen S.,Willow Glen South,82.0,164.2,132.5,38.7,25.6,28.4,27.6,31.9,17.6,12.9,14.3,8,10,36,79,16.3,10,19,17% to 22%,8% to 10%,11452426.4179688,16033.2050635808
+86,Winchester North,Winchester N.,Winchester North,82.0,132.4,122.6,46.9,34.1,34.5,22.9,24.4,24.2,,15.8,8,9,42,74,30.3,14,22,17% to 22%,15% to 21%,11351981.7734375,15388.9488553157
+87,North 101,N. 101,North 101,83.0,130.5,121.6,78.4,,,,,,,21.5,8,9,28,77,11.3,10,15,22% to 26%,6% to 8%,21276838.5234375,18821.6967652858
+88,Santa Clara - East Central,Santa Clara - E. Cent.,Santa Clara - East Central,82.0,139.5,162.2,29.2,30.2,,36.2,,,,13.2,8,10,41,68,7.8,13% to 16%,15% to 16%,11% to 17%,6% to 8%,6250490.08984375,14361.7403803995
+89,Santa Clara - North Central,Santa Clara - N. Cent.,Santa Clara - North Central,82.0,184.2,122.9,39.0,38.3,,,34.8,,,16.8,8,10,38,72,20.5,11% to 13%,16% to 20%,26% to 38%,10% to 15%,6139997.41796875,10700.3810905644
+90,Santa Clara - Southeast,Santa Clara - S.E.,Santa Clara - Southeast,82.0,155.1,130.5,44.4,27.6,30.1,26.8,30.9,16.5,18.6,15.9,6,9,34,69,14.2,11% to 13%,16% to 20%,22% to 26%,8% to 10%,7312873.6953125,10978.1430113299
+91,Santa Clara - Southwest,Santa Clara - S.W.,Santa Clara - Southwest,84.0,127.5,102.3,42.3,,,,,,,14.3,7,9,32,72,5.4,8% to 10%,15% to 16%,11% to 17%,6% to 8%,9135618.96484375,12950.6681977592
+92,Santa Clara - West Central,Santa Clara - W. Cent.,Santa Clara - West Central,83.0,169.7,102.8,,,,,,,,18.7,6,7,36,70,14.5,11% to 13%,15% to 16%,17% to 22%,6% to 8%,5746946.55078125,9785.18773305726
+93,Santa Clara - South 101,Santa Clara - S. 101,Santa Clara - South 101,82.0,184.2,122.9,39.0,38.3,,,34.8,,,15.9,7,9,43,69,24.2,13% to 16%,20% to 23%,11% to 17%,15% to 21%,18604881.328125,21708.226904155
+94,Saratoga - Northwestern,Saratoga - N.W.,Saratoga - Northwestern,86.0,123.9,103.7,31.3,18.0,,20.9,,,,3.3,9,7,17,79,0.3,3% to 8%,1% to 15%,0% to 11%,0% to 6%,32933935.5585938,30472.3199588734
+95,Saratoga - Southeastern,Saratoga - S.E.,Saratoga - Southeastern,84.0,136.4,107.2,44.8,26.7,17.6,23.5,,17.8,,5.1,7,12,25,80,0.5,3% to 8%,1% to 15%,0% to 11%,0% to 6%,36005445.28125,34975.7127274034
+96,De Anza,De Anza,De Anza,85.0,138.4,109.4,48.0,26.1,24.7,,,,,12.3,8,7,22,80,5.1,8% to 10%,1% to 15%,11% to 17%,0% to 6%,8949838.54296875,12274.0648150618
+97,East Murphy,E. Murphy,East Murphy,81.0,157.1,160.6,,,,,,,,20.7,7,10,38,74,33.8,13% to 16%,16% to 20%,22% to 26%,10% to 15%,10963490.5703125,15467.5618934559
+98,Lakewood,Lakewood,Lakewood,83.0,169.2,112.0,36.8,25.3,29.1,27.2,28.6,,,16.9,7,8,35,72,21.0,12,18,22% to 26%,8% to 10%,8805731.23046875,14723.0246026834
+99,Ortega / Raynor,Ortega / Raynor,Ortega / Raynor,86.0,113.2,108.1,37.2,18.5,20.0,,,,,15.6,7,7,28,79,10.8,9,15,11% to 17%,0% to 6%,10545647.578125,15341.2492739212
+100,Ponderosa,Ponderosa,Ponderosa,85.0,135.2,115.9,28.2,28.4,23.0,21.9,,,,20.3,8,8,34,77,22.5,13,15,11% to 17%,6% to 8%,7822640.4296875,12736.4100306495
+101,Serra,Serra,Serra,85.0,118.4,117.1,31.7,,,,,22.4,,8.5,6,8,28,78,1.4,8% to 10%,15% to 16%,0% to 11%,8% to 10%,7153897.390625,11188.7124416323
+102,Washington,Washington,Washington,83.0,169.1,138.8,42.6,31.6,,,,,,19.1,6,8,34,77,25.6,13% to 16%,15% to 16%,11% to 17%,6% to 8%,6478026.33203125,11504.825212288
+103,West Murphy,W. Murphy,West Murphy,83.0,143.8,134.1,,,,,,,,20.8,7,8,38,78,30.4,13% to 16%,20% to 23%,22% to 26%,15% to 21%,8484989.15625,14124.6458761193
+104,Los Altos/Los Altos Hills - Country Club,L.A./L.A.H. - C.C.,Los Altos/Los Altos Hills - Country Club,88.0,112.2,86.9,,,,,,,,5.8,8,8,17,87,2.4,3% to 8%,1% to 15%,0% to 11%,0% to 6%,4127044.23046875,9811.57716382367
+105,Monte Sereno/Los Gatos - Western,Monte Sereno/Los Gatos - W.,Monte Sereno/Los Gatos - Western,84.0,136.4,129.5,37.8,31.0,22.6,17.5,,,,6.8,7,12,21,82,1.1,6,12,0% to 11%,0% to 6%,34925958.6445313,35319.1834709097
+106,Bayshore,Bayshore,Bayshore,,,,,,,,,,,12.0,5,5,47,91,0.0,3% to 8%,16% to 20%,17% to 22%,6% to 8%,10174060.28125,15615.553430189
+107,Unincorporated - East,Unincorp. - E.,Unincorporated - East,84.0,,,,,,,,,,5.9,12,15,74,62,7.7,13% to 16%,20% to 23%,26% to 38%,10% to 15%,2432358128.0625,330844.312666986
+108,Unincorporated - South,Unincorp. - S.,Unincorporated - South,82.0,151.4,147.4,,,32.8,41.4,39.8,,,12.2,6,10,50,72,30.9,10% to 11%,23% to 31%,26% to 38%,10% to 15%,296344194.738281,109506.446054673
+109,Unincorporated - West,Unincorp. - W.,Unincorporated - West,86.0,109.6,96.2,25.1,,33.6,,,,,7.0,7,11,30,78,5.6,8% to 10%,15% to 16%,0% to 11%,6% to 8%,817854208.109375,320165.967640763

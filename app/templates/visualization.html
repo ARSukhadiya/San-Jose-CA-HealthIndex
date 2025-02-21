@@ -1,0 +1,22 @@
+{% extends "base.html" %} {% block content %}
+<div class="text-center my-10">
+  <h2 class="text-2xl font-bold text-gray-800 mb-6">
+    Data Visualization Dashboard
+  </h2>
+</div>
+
+<div
+  class="container mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8"
+>
+  {% for graph in graphs %}
+  <div class="bg-white p-4 shadow-lg rounded-lg">
+    <div id="graph{{ loop.index }}" class="w-full h-64"></div>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <script>
+      var graphData = {{ graph | safe }};
+      Plotly.react("graph{{ loop.index }}", graphData.data, graphData.layout);
+    </script>
+  </div>
+  {% endfor %}
+</div>
+{% endblock %}
