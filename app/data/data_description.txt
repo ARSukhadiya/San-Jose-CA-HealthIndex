@@ -1,0 +1,33 @@
+Data Description:
+
+medhhinc         : Median household income.
+unemp            : Unemployment rate.
+famfpl185        : Percentage of families below 185% of the federal poverty level.
+chldfpl185       : Percentage of children below 185% of the federal poverty level.
+chld_3_4_preschl : Percentage of children aged 3-4 attending preschool.
+ed_lt_hs         : Percentage of adults with less than a high school education.
+ed_hsgrad        : Percentage of adults who are high school graduates.
+ed_partcoll      : Percentage of adults with some college education.
+ed_collgrad      : Percentage of adults with a college degree.
+ed_hs            : Percentage of adults with at least a high school education.
+life             : Life expectancy.
+cancer_mort      : Cancer mortality rate.
+heart_mort       : Heart disease mortality rate.
+alzeihmers_mort  : Alzheimer's disease mortality rate.
+stroke_mort      : Stroke mortality rate.
+respiratory_mort : Respiratory disease mortality rate.
+injury_mort      : Injury-related mortality rate.
+diabetes_mort    : Diabetes mortality rate.
+hyper_mort       : Hypertension-related mortality rate.
+flu_pneum_mort   : Influenza and pneumonia mortality rate.
+birth            : Birth rate.
+birth_lw         : Low birth weight rate.
+birth_pt         : Preterm birth rate.
+preg_overobese   : Rate of pregnant women who are overweight or obese.
+preg_prenatal    : Prenatal care rate.
+birth_teen       : Teen birth rate.
+smoker           : Adult smoking rate.
+obese_adult      : Adult obesity rate.
+overobese_teen   : Overweight or obesity rate among teens.
+overobese_child  : Overweight or obesity rate among children.
+Health_outcome   : Health outcome score or indicator.

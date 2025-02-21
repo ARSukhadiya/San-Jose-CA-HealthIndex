@@ -1,0 +1,485 @@
+notes,geolevel,GEOID,NAME,t_pop,area,pop_density,ObjectId
+,County,6085.0,"Santa Clara County, California",1924379.0,1291.08,1490.5,1
+,City,643280.0,"Los Altos city, California",30878.0,6.54,4721.5,2
+,City,643294.0,"Los Altos Hills town, California",8496.0,9.03,940.9,3
+,City,644112.0,"Los Gatos town, California",31943.0,11.55,2765.6,4
+,City,647766.0,"Milpitas city, California",75182.0,13.48,5576.3,5
+,City,648956.0,"Monte Sereno city, California",3511.0,1.63,2151.0,6
+,City,649278.0,"Morgan Hill city, California",44789.0,12.94,3461.8,7
+,City,649670.0,"Mountain View city, California",80104.0,11.96,6698.7,8
+,City,655282.0,"Palo Alto city, California",67973.0,24.1,2820.9,9
+,City,610345.0,"Campbell city, California",42891.0,6.08,7053.7,10
+,City,617610.0,"Cupertino city, California",59799.0,11.33,5279.0,11
+,City,668000.0,"San Jose city, California",1029409.0,178.26,5774.8,12
+,City,669084.0,"Santa Clara city, California",126723.0,18.28,6933.6,13
+,City,670280.0,"Saratoga city, California",31084.0,12.78,2432.3,14
+,City,677000.0,"Sunnyvale city, California",152569.0,22.06,6916.0,15
+,City,629504.0,"Gilroy city, California",55227.0,16.54,3339.9,16
+,ZCTA,95148.0,ZCTA5 95148,48629.0,9.42,5164.1,17
+,ZCTA,95139.0,ZCTA5 95139,7262.0,1.23,5902.8,18
+,ZCTA,95013.0,ZCTA5 95013,34.0,1.51,22.6,19
+,ZCTA,95053.0,ZCTA5 95053,3835.0,0.17,22455.1,20
+,ZCTA,94022.0,ZCTA5 94022,19701.0,17.47,1127.7,21
+,ZCTA,94085.0,ZCTA5 94085,23592.0,3.49,6750.2,22
+,ZCTA,95121.0,ZCTA5 95121,38258.0,4.43,8637.2,23
+,ZCTA,95002.0,ZCTA5 95002,2251.0,11.87,189.7,24
+,ZCTA,95119.0,ZCTA5 95119,10450.0,2.83,3687.3,25
+,ZCTA,95127.0,ZCTA5 95127,63220.0,13.0,4864.3,26
+,ZCTA,95128.0,ZCTA5 95128,35986.0,3.9,9225.8,27
+,ZCTA,95130.0,ZCTA5 95130,14051.0,1.55,9074.7,28
+,ZCTA,95138.0,ZCTA5 95138,20597.0,25.61,804.2,29
+,ZCTA,95030.0,ZCTA5 95030,13631.0,10.34,1318.7,30
+,ZCTA,95037.0,ZCTA5 95037,51968.0,244.15,212.9,31
+,ZCTA,95050.0,ZCTA5 95050,38884.0,5.27,7372.5,32
+,ZCTA,95120.0,ZCTA5 95120,38177.0,39.74,960.8,33
+,ZCTA,95123.0,ZCTA5 95123,70005.0,8.29,8441.5,34
+,ZCTA,95032.0,ZCTA5 95032,25865.0,16.02,1614.5,35
+,ZCTA,95140.0,ZCTA5 95140,56.0,123.61,0.5,36
+,ZCTA,94024.0,ZCTA5 94024,23704.0,7.32,3240.5,37
+,ZCTA,94086.0,ZCTA5 94086,49190.0,4.49,10957.5,38
+,ZCTA,94304.0,ZCTA5 94304,4391.0,6.5,675.6,39
+,ZCTA,94043.0,ZCTA5 94043,31999.0,10.68,2997.6,40
+,ZCTA,94087.0,ZCTA5 94087,57015.0,6.58,8661.9,41
+,ZCTA,94089.0,ZCTA5 94089,23049.0,5.99,3847.1,42
+,ZCTA,94306.0,ZCTA5 94306,27650.0,4.19,6602.5,43
+,ZCTA,94041.0,ZCTA5 94041,13996.0,1.53,9139.6,44
+,ZCTA,95054.0,ZCTA5 95054,23959.0,6.23,3844.1,45
+,ZCTA,95129.0,ZCTA5 95129,40277.0,4.52,8916.9,46
+,ZCTA,94040.0,ZCTA5 94040,34804.0,3.67,9482.1,47
+,ZCTA,94301.0,ZCTA5 94301,17470.0,2.37,7364.6,48
+,ZCTA,94305.0,ZCTA5 94305,16283.0,5.18,3145.8,49
+,ZCTA,95014.0,ZCTA5 95014,61480.0,27.13,2266.3,50
+,Census tract,6085506401.0,"Census Tract 5064.01, Santa Clara County, California",4781.0,0.52,9218.1,51
+,Census tract,6085506402.0,"Census Tract 5064.02, Santa Clara County, California",5714.0,0.56,10259.8,52
+,Census tract,6085506502.0,"Census Tract 5065.02, Santa Clara County, California",4199.0,1.17,3599.5,53
+,Census tract,6085506503.0,"Census Tract 5065.03, Santa Clara County, California",6066.0,0.69,8779.5,54
+,Census tract,6085506504.0,"Census Tract 5065.04, Santa Clara County, California",2856.0,0.08,35281.3,55
+,Census tract,6085506505.0,"Census Tract 5065.05, Santa Clara County, California",4894.0,0.25,19278.7,56
+,Census tract,6085506601.0,"Census Tract 5066.01, Santa Clara County, California",4122.0,0.6,6815.0,57
+,Census tract,6085506603.0,"Census Tract 5066.03, Santa Clara County, California",4277.0,0.49,8657.0,58
+,Census tract,6085506605.0,"Census Tract 5066.05, Santa Clara County, California",4558.0,0.39,11814.6,59
+,Census tract,6085506606.0,"Census Tract 5066.06, Santa Clara County, California",5004.0,0.46,10798.3,60
+,Census tract,6085506701.0,"Census Tract 5067.01, Santa Clara County, California",4177.0,0.62,6763.3,61
+,Census tract,6085506702.0,"Census Tract 5067.02, Santa Clara County, California",6185.0,0.65,9468.9,62
+,Census tract,6085506703.0,"Census Tract 5067.03, Santa Clara County, California",3480.0,0.52,6654.4,63
+,Census tract,6085506801.0,"Census Tract 5068.01, Santa Clara County, California",5656.0,1.12,5064.6,64
+,Census tract,6085506802.0,"Census Tract 5068.02, Santa Clara County, California",5897.0,0.79,7472.8,65
+,Census tract,6085506803.0,"Census Tract 5068.03, Santa Clara County, California",7146.0,0.88,8080.5,66
+,Census tract,6085506804.0,"Census Tract 5068.04, Santa Clara County, California",4459.0,0.6,7489.0,67
+,Census tract,6085506900.0,"Census Tract 5069, Santa Clara County, California",7720.0,3.63,2129.3,68
+,Census tract,6085507002.0,"Census Tract 5070.02, Santa Clara County, California",3429.0,5.27,650.6,69
+,Census tract,6085507003.0,"Census Tract 5070.03, Santa Clara County, California",3088.0,3.68,838.8,70
+,Census tract,6085507004.0,"Census Tract 5070.04, Santa Clara County, California",3459.0,0.93,3702.6,71
+,Census tract,6085507100.0,"Census Tract 5071, Santa Clara County, California",3159.0,0.61,5191.3,72
+,Census tract,6085507203.0,"Census Tract 5072.03, Santa Clara County, California",3062.0,0.7,4385.4,73
+,Census tract,6085507205.0,"Census Tract 5072.05, Santa Clara County, California",4651.0,1.3,3566.4,74
+,Census tract,6085507206.0,"Census Tract 5072.06, Santa Clara County, California",2586.0,1.25,2068.8,75
+,Census tract,6085507301.0,"Census Tract 5073.01, Santa Clara County, California",6883.0,3.26,2112.2,76
+,Census tract,6085507302.0,"Census Tract 5073.02, Santa Clara County, California",2846.0,4.58,620.9,77
+,Census tract,6085507401.0,"Census Tract 5074.01, Santa Clara County, California",5869.0,1.25,4709.3,78
+,Census tract,6085507402.0,"Census Tract 5074.02, Santa Clara County, California",3996.0,0.93,4281.3,79
+,Census tract,6085507500.0,"Census Tract 5075, Santa Clara County, California",5856.0,1.43,4107.8,80
+,Census tract,6085507600.0,"Census Tract 5076, Santa Clara County, California",5888.0,5.36,1099.2,81
+,Census tract,6085507701.0,"Census Tract 5077.01, Santa Clara County, California",3296.0,1.02,3232.3,82
+,Census tract,6085507702.0,"Census Tract 5077.02, Santa Clara County, California",6993.0,2.97,2352.6,83
+,Census tract,6085507704.0,"Census Tract 5077.04, Santa Clara County, California",3352.0,0.51,6549.0,84
+,Census tract,6085507705.0,"Census Tract 5077.05, Santa Clara County, California",4270.0,2.02,2111.1,85
+,Census tract,6085507805.0,"Census Tract 5078.05, Santa Clara County, California",5005.0,0.81,6178.0,86
+,Census tract,6085507806.0,"Census Tract 5078.06, Santa Clara County, California",6012.0,0.73,8263.9,87
+,Census tract,6085507807.0,"Census Tract 5078.07, Santa Clara County, California",3557.0,0.38,9240.0,88
+,Census tract,6085507808.0,"Census Tract 5078.08, Santa Clara County, California",5680.0,0.66,8646.0,89
+,Census tract,6085507903.0,"Census Tract 5079.03, Santa Clara County, California",5684.0,0.58,9795.4,90
+,Census tract,6085507904.0,"Census Tract 5079.04, Santa Clara County, California",3221.0,0.49,6525.7,91
+,Census tract,6085507905.0,"Census Tract 5079.05, Santa Clara County, California",5339.0,0.56,9469.9,92
+,Census tract,6085507906.0,"Census Tract 5079.06, Santa Clara County, California",4386.0,0.55,7966.4,93
+,Census tract,6085508003.0,"Census Tract 5080.03, Santa Clara County, California",2521.0,0.31,8181.1,94
+,Census tract,6085508004.0,"Census Tract 5080.04, Santa Clara County, California",5954.0,0.56,10660.5,95
+,Census tract,6085506604.0,"Census Tract 5066.04, Santa Clara County, California",7343.0,0.95,7738.9,96
+,Census tract,6085508005.0,"Census Tract 5080.05, Santa Clara County, California",3562.0,0.41,8753.4,97
+,Census tract,6085508006.0,"Census Tract 5080.06, Santa Clara County, California",3838.0,0.47,8167.7,98
+,Census tract,6085508101.0,"Census Tract 5081.01, Santa Clara County, California",6786.0,1.02,6627.0,99
+,Census tract,6085508102.0,"Census Tract 5081.02, Santa Clara County, California",3185.0,1.05,3028.9,100
+,Census tract,6085503511.0,"Census Tract 5035.11, Santa Clara County, California",3522.0,0.32,11001.4,101
+,Census tract,6085503601.0,"Census Tract 5036.01, Santa Clara County, California",3451.0,0.53,6513.1,102
+,Census tract,6085503602.0,"Census Tract 5036.02, Santa Clara County, California",5444.0,0.47,11526.4,103
+,Census tract,6085503703.0,"Census Tract 5037.03, Santa Clara County, California",4393.0,0.25,17370.0,104
+,Census tract,6085503707.0,"Census Tract 5037.07, Santa Clara County, California",5543.0,0.29,19037.3,105
+,Census tract,6085503708.0,"Census Tract 5037.08, Santa Clara County, California",3024.0,0.47,6421.7,106
+,Census tract,6085503709.0,"Census Tract 5037.09, Santa Clara County, California",6179.0,0.34,18083.8,107
+,Census tract,6085503710.0,"Census Tract 5037.10, Santa Clara County, California",3455.0,0.23,14882.6,108
+,Census tract,6085503711.0,"Census Tract 5037.11, Santa Clara County, California",5344.0,0.37,14330.7,109
+,Census tract,6085503712.0,"Census Tract 5037.12, Santa Clara County, California",4745.0,0.26,18503.5,110
+,Census tract,6085503713.0,"Census Tract 5037.13, Santa Clara County, California",3352.0,0.19,17802.4,111
+,Census tract,6085503802.0,"Census Tract 5038.02, Santa Clara County, California",8141.0,0.65,12588.1,112
+,Census tract,6085503803.0,"Census Tract 5038.03, Santa Clara County, California",5174.0,0.41,12730.1,113
+,Census tract,6085503804.0,"Census Tract 5038.04, Santa Clara County, California",5209.0,0.58,8937.5,114
+,Census tract,6085503902.0,"Census Tract 5039.02, Santa Clara County, California",6088.0,0.4,15369.0,115
+,Census tract,6085503903.0,"Census Tract 5039.03, Santa Clara County, California",3390.0,0.36,9469.0,116
+,Census tract,6085503323.0,"Census Tract 5033.23, Santa Clara County, California",4051.0,0.44,9269.7,117
+,Census tract,6085504001.0,"Census Tract 5040.01, Santa Clara County, California",5307.0,0.44,12085.1,118
+,Census tract,6085504002.0,"Census Tract 5040.02, Santa Clara County, California",7203.0,0.4,18176.6,119
+,Census tract,6085504101.0,"Census Tract 5041.01, Santa Clara County, California",4814.0,0.38,12556.4,120
+,Census tract,6085504102.0,"Census Tract 5041.02, Santa Clara County, California",5751.0,0.52,11094.7,121
+,Census tract,6085504201.0,"Census Tract 5042.01, Santa Clara County, California",5534.0,1.16,4790.5,122
+,Census tract,6085504202.0,"Census Tract 5042.02, Santa Clara County, California",4040.0,5.99,674.8,123
+,Census tract,6085504307.0,"Census Tract 5043.07, Santa Clara County, California",5840.0,0.65,8948.4,124
+,Census tract,6085504308.0,"Census Tract 5043.08, Santa Clara County, California",4637.0,7.19,645.3,125
+,Census tract,6085504311.0,"Census Tract 5043.11, Santa Clara County, California",7547.0,0.84,8980.7,126
+,Census tract,6085504314.0,"Census Tract 5043.14, Santa Clara County, California",4978.0,0.57,8737.8,127
+,Census tract,6085504315.0,"Census Tract 5043.15, Santa Clara County, California",7097.0,0.61,11584.2,128
+,Census tract,6085504316.0,"Census Tract 5043.16, Santa Clara County, California",5513.0,0.44,12652.5,129
+,Census tract,6085504317.0,"Census Tract 5043.17, Santa Clara County, California",4100.0,0.46,8915.9,130
+,Census tract,6085504318.0,"Census Tract 5043.18, Santa Clara County, California",6840.0,1.69,4059.1,131
+,Census tract,6085504319.0,"Census Tract 5043.19, Santa Clara County, California",6799.0,0.81,8431.9,132
+,Census tract,6085504320.0,"Census Tract 5043.20, Santa Clara County, California",3002.0,0.36,8415.7,133
+,Census tract,6085504321.0,"Census Tract 5043.21, Santa Clara County, California",5766.0,0.56,10297.5,134
+,Census tract,6085504322.0,"Census Tract 5043.22, Santa Clara County, California",6058.0,1.24,4904.1,135
+,Census tract,6085504323.0,"Census Tract 5043.23, Santa Clara County, California",6191.0,0.5,12476.9,136
+,Census tract,6085504410.0,"Census Tract 5044.10, Santa Clara County, California",4593.0,0.43,10793.4,137
+,Census tract,6085504411.0,"Census Tract 5044.11, Santa Clara County, California",6097.0,0.53,11569.4,138
+,Census tract,6085504412.0,"Census Tract 5044.12, Santa Clara County, California",4956.0,0.37,13228.7,139
+,Census tract,6085504413.0,"Census Tract 5044.13, Santa Clara County, California",1969.0,0.24,8059.6,140
+,Census tract,6085504414.0,"Census Tract 5044.14, Santa Clara County, California",4547.0,0.68,6714.4,141
+,Census tract,6085504415.0,"Census Tract 5044.15, Santa Clara County, California",4922.0,0.47,10562.8,142
+,Census tract,6085504416.0,"Census Tract 5044.16, Santa Clara County, California",3827.0,0.43,8830.0,143
+,Census tract,6085504418.0,"Census Tract 5044.18, Santa Clara County, California",3817.0,0.4,9553.5,144
+,Census tract,6085504421.0,"Census Tract 5044.21, Santa Clara County, California",5707.0,0.62,9263.2,145
+,Census tract,6085504422.0,"Census Tract 5044.22, Santa Clara County, California",3259.0,0.34,9722.8,146
+,Census tract,6085504423.0,"Census Tract 5044.23, Santa Clara County, California",2149.0,0.22,9994.6,147
+,Census tract,6085504424.0,"Census Tract 5044.24, Santa Clara County, California",4972.0,9.83,505.9,148
+,Census tract,6085504505.0,"Census Tract 5045.05, Santa Clara County, California",9319.0,0.75,12476.1,149
+,Census tract,6085504506.0,"Census Tract 5045.06, Santa Clara County, California",7047.0,0.7,10131.6,150
+,Census tract,6085503117.0,"Census Tract 5031.17, Santa Clara County, California",2972.0,0.19,15334.8,151
+,Census tract,6085503118.0,"Census Tract 5031.18, Santa Clara County, California",4551.0,0.22,20822.8,152
+,Census tract,6085503121.0,"Census Tract 5031.21, Santa Clara County, California",4771.0,0.83,5758.0,153
+,Census tract,6085503122.0,"Census Tract 5031.22, Santa Clara County, California",3588.0,1.41,2549.7,154
+,Census tract,6085503123.0,"Census Tract 5031.23, Santa Clara County, California",3834.0,0.27,14410.8,155
+,Census tract,6085503124.0,"Census Tract 5031.24, Santa Clara County, California",5577.0,0.61,9185.1,156
+,Census tract,6085503125.0,"Census Tract 5031.25, Santa Clara County, California",3435.0,0.29,11980.5,157
+,Census tract,6085503126.0,"Census Tract 5031.26, Santa Clara County, California",3421.0,0.6,5734.3,158
+,Census tract,6085503127.0,"Census Tract 5031.27, Santa Clara County, California",4012.0,1.13,3550.4,159
+,Census tract,6085503207.0,"Census Tract 5032.07, Santa Clara County, California",3872.0,0.5,7774.0,160
+,Census tract,6085503208.0,"Census Tract 5032.08, Santa Clara County, California",3858.0,0.43,9032.0,161
+,Census tract,6085503210.0,"Census Tract 5032.10, Santa Clara County, California",4546.0,0.62,7377.6,162
+,Census tract,6085503211.0,"Census Tract 5032.11, Santa Clara County, California",4473.0,0.41,10939.7,163
+,Census tract,6085503212.0,"Census Tract 5032.12, Santa Clara County, California",4596.0,0.65,7122.1,164
+,Census tract,6085503213.0,"Census Tract 5032.13, Santa Clara County, California",5351.0,0.42,12605.5,165
+,Census tract,6085503217.0,"Census Tract 5032.17, Santa Clara County, California",4196.0,0.23,18055.4,166
+,Census tract,6085503218.0,"Census Tract 5032.18, Santa Clara County, California",5002.0,0.23,21939.1,167
+,Census tract,6085503219.0,"Census Tract 5032.19, Santa Clara County, California",2989.0,0.19,15989.6,168
+,Census tract,6085503220.0,"Census Tract 5032.20, Santa Clara County, California",4543.0,0.37,12386.2,169
+,Census tract,6085503221.0,"Census Tract 5032.21, Santa Clara County, California",2523.0,0.41,6194.0,170
+,Census tract,6085503222.0,"Census Tract 5032.22, Santa Clara County, California",6121.0,0.29,21104.1,171
+,Census tract,6085503304.0,"Census Tract 5033.04, Santa Clara County, California",7373.0,0.57,12836.9,172
+,Census tract,6085503305.0,"Census Tract 5033.05, Santa Clara County, California",5578.0,0.9,6215.7,173
+,Census tract,6085503306.0,"Census Tract 5033.06, Santa Clara County, California",4100.0,0.64,6367.9,174
+,Census tract,6085503312.0,"Census Tract 5033.12, Santa Clara County, California",3926.0,5.82,674.9,175
+,Census tract,6085503313.0,"Census Tract 5033.13, Santa Clara County, California",4421.0,0.62,7129.5,176
+,Census tract,6085503315.0,"Census Tract 5033.15, Santa Clara County, California",9243.0,0.64,14533.8,177
+,Census tract,6085503321.0,"Census Tract 5033.21, Santa Clara County, California",4732.0,0.68,6988.7,178
+,Census tract,6085503322.0,"Census Tract 5033.22, Santa Clara County, California",4990.0,0.56,8950.7,179
+,Census tract,6085503324.0,"Census Tract 5033.24, Santa Clara County, California",3583.0,0.32,11208.1,180
+,Census tract,6085503325.0,"Census Tract 5033.25, Santa Clara County, California",4625.0,0.44,10522.3,181
+,Census tract,6085503326.0,"Census Tract 5033.26, Santa Clara County, California",7743.0,1.64,4707.4,182
+,Census tract,6085503327.0,"Census Tract 5033.27, Santa Clara County, California",4849.0,0.56,8719.7,183
+,Census tract,6085503329.0,"Census Tract 5033.29, Santa Clara County, California",3855.0,0.45,8577.1,184
+,Census tract,6085503330.0,"Census Tract 5033.30, Santa Clara County, California",7163.0,6.86,1043.6,185
+,Census tract,6085503331.0,"Census Tract 5033.31, Santa Clara County, California",3748.0,0.53,7108.4,186
+,Census tract,6085503332.0,"Census Tract 5033.32, Santa Clara County, California",6528.0,3.04,2144.4,187
+,Census tract,6085503333.0,"Census Tract 5033.33, Santa Clara County, California",4717.0,0.8,5865.9,188
+,Census tract,6085503336.0,"Census Tract 5033.36, Santa Clara County, California",3444.0,0.35,9851.2,189
+,Census tract,6085503337.0,"Census Tract 5033.37, Santa Clara County, California",4186.0,0.3,14154.1,190
+,Census tract,6085503338.0,"Census Tract 5033.38, Santa Clara County, California",4381.0,3.63,1207.0,191
+,Census tract,6085503339.0,"Census Tract 5033.39, Santa Clara County, California",4011.0,1.45,2768.7,192
+,Census tract,6085503401.0,"Census Tract 5034.01, Santa Clara County, California",4741.0,0.35,13607.7,193
+,Census tract,6085503402.0,"Census Tract 5034.02, Santa Clara County, California",5114.0,0.28,18179.3,194
+,Census tract,6085503504.0,"Census Tract 5035.04, Santa Clara County, California",6603.0,0.43,15248.2,195
+,Census tract,6085503506.0,"Census Tract 5035.06, Santa Clara County, California",7011.0,0.39,18161.0,196
+,Census tract,6085503507.0,"Census Tract 5035.07, Santa Clara County, California",2558.0,0.15,17051.6,197
+,Census tract,6085503508.0,"Census Tract 5035.08, Santa Clara County, California",5896.0,0.39,15147.2,198
+,Census tract,6085503509.0,"Census Tract 5035.09, Santa Clara County, California",4763.0,0.42,11436.1,199
+,Census tract,6085503510.0,"Census Tract 5035.10, Santa Clara County, California",5345.0,0.4,13402.1,200
+,Census tract,6085501101.0,"Census Tract 5011.01, Santa Clara County, California",4329.0,0.25,17068.5,201
+,Census tract,6085504507.0,"Census Tract 5045.07, Santa Clara County, California",5871.0,0.68,8587.1,202
+,Census tract,6085501102.0,"Census Tract 5011.02, Santa Clara County, California",4465.0,0.47,9439.1,203
+,Census tract,6085501200.0,"Census Tract 5012, Santa Clara County, California",4099.0,0.32,12771.6,204
+,Census tract,6085501300.0,"Census Tract 5013, Santa Clara County, California",4093.0,0.29,14189.4,205
+,Census tract,6085501401.0,"Census Tract 5014.01, Santa Clara County, California",2793.0,0.39,7244.0,206
+,Census tract,6085501402.0,"Census Tract 5014.02, Santa Clara County, California",3161.0,0.2,15665.2,207
+,Census tract,6085501501.0,"Census Tract 5015.01, Santa Clara County, California",4335.0,0.24,18005.8,208
+,Census tract,6085501502.0,"Census Tract 5015.02, Santa Clara County, California",4578.0,0.34,13344.2,209
+,Census tract,6085501601.0,"Census Tract 5016.01, Santa Clara County, California",4181.0,0.3,13850.4,210
+,Census tract,6085501602.0,"Census Tract 5016.02, Santa Clara County, California",3792.0,0.17,22513.0,211
+,Census tract,6085501700.0,"Census Tract 5017, Santa Clara County, California",4831.0,0.43,11214.6,212
+,Census tract,6085501800.0,"Census Tract 5018, Santa Clara County, California",4934.0,0.55,8944.7,213
+,Census tract,6085501901.0,"Census Tract 5019.01, Santa Clara County, California",2196.0,0.23,9514.7,214
+,Census tract,6085501902.0,"Census Tract 5019.02, Santa Clara County, California",3236.0,0.41,7872.6,215
+,Census tract,6085502001.0,"Census Tract 5020.01, Santa Clara County, California",5089.0,0.51,9882.7,216
+,Census tract,6085502002.0,"Census Tract 5020.02, Santa Clara County, California",5963.0,0.35,17159.7,217
+,Census tract,6085502101.0,"Census Tract 5021.01, Santa Clara County, California",5309.0,0.74,7182.0,218
+,Census tract,6085502103.0,"Census Tract 5021.03, Santa Clara County, California",4675.0,0.4,11757.7,219
+,Census tract,6085502104.0,"Census Tract 5021.04, Santa Clara County, California",2408.0,0.3,8094.2,220
+,Census tract,6085502202.0,"Census Tract 5022.02, Santa Clara County, California",2802.0,0.43,6506.4,221
+,Census tract,6085502203.0,"Census Tract 5022.03, Santa Clara County, California",4214.0,0.25,16950.5,222
+,Census tract,6085502204.0,"Census Tract 5022.04, Santa Clara County, California",3438.0,0.13,26889.7,223
+,Census tract,6085502301.0,"Census Tract 5023.01, Santa Clara County, California",3384.0,0.47,7141.8,224
+,Census tract,6085502302.0,"Census Tract 5023.02, Santa Clara County, California",3524.0,0.26,13537.8,225
+,Census tract,6085502400.0,"Census Tract 5024, Santa Clara County, California",7048.0,1.03,6812.1,226
+,Census tract,6085502500.0,"Census Tract 5025, Santa Clara County, California",6760.0,0.96,7012.7,227
+,Census tract,6085502601.0,"Census Tract 5026.01, Santa Clara County, California",3281.0,0.54,6025.0,228
+,Census tract,6085502603.0,"Census Tract 5026.03, Santa Clara County, California",2858.0,0.47,6064.9,229
+,Census tract,6085502604.0,"Census Tract 5026.04, Santa Clara County, California",4109.0,0.49,8306.2,230
+,Census tract,6085502701.0,"Census Tract 5027.01, Santa Clara County, California",5665.0,0.67,8484.5,231
+,Census tract,6085502703.0,"Census Tract 5027.03, Santa Clara County, California",3811.0,0.54,7055.7,232
+,Census tract,6085502704.0,"Census Tract 5027.04, Santa Clara County, California",4042.0,0.63,6417.1,233
+,Census tract,6085502800.0,"Census Tract 5028, Santa Clara County, California",4442.0,0.68,6551.1,234
+,Census tract,6085502901.0,"Census Tract 5029.01, Santa Clara County, California",6210.0,0.73,8543.9,235
+,Census tract,6085502902.0,"Census Tract 5029.02, Santa Clara County, California",9023.0,1.01,8891.2,236
+,Census tract,6085502903.0,"Census Tract 5029.03, Santa Clara County, California",5220.0,0.73,7180.5,237
+,Census tract,6085502906.0,"Census Tract 5029.06, Santa Clara County, California",4912.0,0.6,8238.1,238
+,Census tract,6085502907.0,"Census Tract 5029.07, Santa Clara County, California",3960.0,0.48,8194.9,239
+,Census tract,6085502908.0,"Census Tract 5029.08, Santa Clara County, California",6617.0,0.8,8241.4,240
+,Census tract,6085502909.0,"Census Tract 5029.09, Santa Clara County, California",5170.0,0.5,10373.6,241
+,Census tract,6085502910.0,"Census Tract 5029.10, Santa Clara County, California",3835.0,0.46,8369.3,242
+,Census tract,6085503001.0,"Census Tract 5030.01, Santa Clara County, California",4297.0,0.67,6441.1,243
+,Census tract,6085503002.0,"Census Tract 5030.02, Santa Clara County, California",3747.0,0.52,7167.7,244
+,Census tract,6085503003.0,"Census Tract 5030.03, Santa Clara County, California",5259.0,0.75,7025.3,245
+,Census tract,6085503105.0,"Census Tract 5031.05, Santa Clara County, California",2466.0,0.68,3634.9,246
+,Census tract,6085503110.0,"Census Tract 5031.10, Santa Clara County, California",4160.0,0.3,14075.4,247
+,Census tract,6085503111.0,"Census Tract 5031.11, Santa Clara County, California",5979.0,0.35,17107.9,248
+,Census tract,6085503112.0,"Census Tract 5031.12, Santa Clara County, California",3783.0,0.44,8617.5,249
+,Census tract,6085503113.0,"Census Tract 5031.13, Santa Clara County, California",4897.0,0.28,17413.7,250
+,Census tract,6085503116.0,"Census Tract 5031.16, Santa Clara County, California",6831.0,0.44,15498.8,251
+,Census tract,6085504508.0,"Census Tract 5045.08, Santa Clara County, California",4185.0,0.37,11385.0,252
+,Census tract,6085504509.0,"Census Tract 5045.09, Santa Clara County, California",4094.0,1.32,3099.5,253
+,Census tract,6085504510.0,"Census Tract 5045.10, Santa Clara County, California",3769.0,0.66,5710.8,254
+,Census tract,6085504601.0,"Census Tract 5046.01, Santa Clara County, California",1065.0,7.31,145.7,255
+,Census tract,6085504602.0,"Census Tract 5046.02, Santa Clara County, California",2257.0,22.46,100.5,256
+,Census tract,6085504700.0,"Census Tract 5047, Santa Clara County, California",518.0,2.59,199.9,257
+,Census tract,6085504802.0,"Census Tract 5048.02, Santa Clara County, California",5165.0,0.71,7307.0,258
+,Census tract,6085504805.0,"Census Tract 5048.05, Santa Clara County, California",7249.0,0.55,13105.4,259
+,Census tract,6085504806.0,"Census Tract 5048.06, Santa Clara County, California",2972.0,0.32,9293.9,260
+,Census tract,6085504807.0,"Census Tract 5048.07, Santa Clara County, California",5640.0,0.37,15402.8,261
+,Census tract,6085504808.0,"Census Tract 5048.08, Santa Clara County, California",2023.0,0.19,10383.7,262
+,Census tract,6085504902.0,"Census Tract 5049.02, Santa Clara County, California",4709.0,0.32,14944.8,263
+,Census tract,6085504903.0,"Census Tract 5049.03, Santa Clara County, California",4735.0,0.23,20667.6,264
+,Census tract,6085505006.0,"Census Tract 5050.06, Santa Clara County, California",12242.0,5.5,2225.2,265
+,Census tract,6085505007.0,"Census Tract 5050.07, Santa Clara County, California",4397.0,1.18,3735.4,266
+,Census tract,6085505010.0,"Census Tract 5050.10, Santa Clara County, California",4400.0,3.01,1461.9,267
+,Census tract,6085505011.0,"Census Tract 5050.11, Santa Clara County, California",5436.0,0.45,12200.2,268
+,Census tract,6085505012.0,"Census Tract 5050.12, Santa Clara County, California",2547.0,0.41,6206.8,269
+,Census tract,6085505013.0,"Census Tract 5050.13, Santa Clara County, California",5602.0,0.23,23896.7,270
+,Census tract,6085505014.0,"Census Tract 5050.14, Santa Clara County, California",5940.0,0.44,13641.9,271
+,Census tract,6085505015.0,"Census Tract 5050.15, Santa Clara County, California",5149.0,0.87,5899.0,272
+,Census tract,6085505100.0,"Census Tract 5051, Santa Clara County, California",4093.0,2.69,1521.7,273
+,Census tract,6085505202.0,"Census Tract 5052.02, Santa Clara County, California",6998.0,3.54,1977.9,274
+,Census tract,6085505203.0,"Census Tract 5052.03, Santa Clara County, California",5909.0,0.55,10658.1,275
+,Census tract,6085505301.0,"Census Tract 5053.01, Santa Clara County, California",4548.0,0.35,13012.9,276
+,Census tract,6085505302.0,"Census Tract 5053.02, Santa Clara County, California",4345.0,0.56,7820.8,277
+,Census tract,6085505303.0,"Census Tract 5053.03, Santa Clara County, California",6414.0,0.42,15313.5,278
+,Census tract,6085505304.0,"Census Tract 5053.04, Santa Clara County, California",3559.0,0.39,9015.7,279
+,Census tract,6085505305.0,"Census Tract 5053.05, Santa Clara County, California",5831.0,0.59,9879.9,280
+,Census tract,6085505401.0,"Census Tract 5054.01, Santa Clara County, California",6799.0,0.45,15062.1,281
+,Census tract,6085505402.0,"Census Tract 5054.02, Santa Clara County, California",2992.0,0.41,7278.0,282
+,Census tract,6085505403.0,"Census Tract 5054.03, Santa Clara County, California",8775.0,0.54,16301.4,283
+,Census tract,6085505500.0,"Census Tract 5055, Santa Clara County, California",4392.0,0.53,8339.2,284
+,Census tract,6085505600.0,"Census Tract 5056, Santa Clara County, California",4623.0,0.4,11553.3,285
+,Census tract,6085505700.0,"Census Tract 5057, Santa Clara County, California",6389.0,0.62,10241.1,286
+,Census tract,6085505800.0,"Census Tract 5058, Santa Clara County, California",4457.0,0.65,6842.7,287
+,Census tract,6085505901.0,"Census Tract 5059.01, Santa Clara County, California",3668.0,0.49,7483.9,288
+,Census tract,6085505902.0,"Census Tract 5059.02, Santa Clara County, California",3789.0,0.34,11124.0,289
+,Census tract,6085506000.0,"Census Tract 5060, Santa Clara County, California",4815.0,0.52,9311.5,290
+,Census tract,6085506101.0,"Census Tract 5061.01, Santa Clara County, California",4175.0,0.58,7179.6,291
+,Census tract,6085506102.0,"Census Tract 5061.02, Santa Clara County, California",4295.0,0.44,9786.8,292
+,Census tract,6085506103.0,"Census Tract 5061.03, Santa Clara County, California",5255.0,0.59,8861.2,293
+,Census tract,6085506202.0,"Census Tract 5062.02, Santa Clara County, California",8586.0,0.97,8842.7,294
+,Census tract,6085506203.0,"Census Tract 5062.03, Santa Clara County, California",6416.0,0.43,15064.7,295
+,Census tract,6085506204.0,"Census Tract 5062.04, Santa Clara County, California",5275.0,0.69,7606.5,296
+,Census tract,6085506301.0,"Census Tract 5063.01, Santa Clara County, California",5342.0,0.58,9232.7,297
+,Census tract,6085506302.0,"Census Tract 5063.02, Santa Clara County, California",6349.0,0.78,8163.4,298
+,Census tract,6085506304.0,"Census Tract 5063.04, Santa Clara County, California",6240.0,0.42,14977.8,299
+,Census tract,6085506305.0,"Census Tract 5063.05, Santa Clara County, California",6599.0,0.42,15639.8,300
+,Census tract,6085508203.0,"Census Tract 5082.03, Santa Clara County, California",5820.0,0.6,9640.6,301
+,ZCTA,95112.0,ZCTA5 95112,59959.0,7.09,8455.0,302
+,ZCTA,95126.0,ZCTA5 95126,37063.0,3.29,11275.7,303
+,ZCTA,95134.0,ZCTA5 95134,30499.0,10.07,3029.3,304
+,ZCTA,95035.0,ZCTA5 95035,75367.0,23.38,3223.1,305
+,ZCTA,95046.0,ZCTA5 95046,5905.0,19.51,302.7,306
+,ZCTA,95117.0,ZCTA5 95117,31702.0,2.57,12348.0,307
+,ZCTA,95118.0,ZCTA5 95118,32768.0,4.08,8033.8,308
+,ZCTA,95122.0,ZCTA5 95122,55619.0,4.75,11697.6,309
+,ZCTA,95070.0,ZCTA5 95070,31442.0,25.46,1235.0,310
+,ZCTA,95113.0,ZCTA5 95113,2550.0,0.34,7499.9,311
+,ZCTA,95116.0,ZCTA5 95116,54758.0,3.59,15248.3,312
+,ZCTA,95132.0,ZCTA5 95132,42726.0,51.4,831.3,313
+,ZCTA,95135.0,ZCTA5 95135,22509.0,30.27,743.5,314
+,ZCTA,95136.0,ZCTA5 95136,48492.0,4.66,10403.6,315
+,ZCTA,95008.0,ZCTA5 95008,47886.0,6.47,7396.7,316
+,ZCTA,95020.0,ZCTA5 95020,63522.0,156.01,407.2,317
+,ZCTA,95051.0,ZCTA5 95051,59209.0,6.65,8899.6,318
+,ZCTA,95110.0,ZCTA5 95110,20004.0,4.67,4283.2,319
+,ZCTA,95111.0,ZCTA5 95111,61183.0,5.42,11282.4,320
+,ZCTA,95124.0,ZCTA5 95124,52049.0,6.55,7951.9,321
+,ZCTA,95125.0,ZCTA5 95125,54076.0,7.99,6765.0,322
+,ZCTA,95131.0,ZCTA5 95131,32096.0,5.83,5502.3,323
+,ZCTA,95133.0,ZCTA5 95133,28158.0,3.2,8812.3,324
+,Census tract,6085512314.0,"Census Tract 5123.14, Santa Clara County, California",7070.0,1.44,4912.9,325
+,Census tract,6085512401.0,"Census Tract 5124.01, Santa Clara County, California",4542.0,15.97,284.4,326
+,Census tract,6085512402.0,"Census Tract 5124.02, Santa Clara County, California",5344.0,19.07,280.2,327
+,Census tract,6085512505.0,"Census Tract 5125.05, Santa Clara County, California",7856.0,1.03,7658.6,328
+,Census tract,6085512509.0,"Census Tract 5125.09, Santa Clara County, California",7176.0,1.87,3833.6,329
+,Census tract,6085512510.0,"Census Tract 5125.10, Santa Clara County, California",6790.0,8.94,759.4,330
+,Census tract,6085512511.0,"Census Tract 5125.11, Santa Clara County, California",4020.0,0.53,7517.5,331
+,Census tract,6085512512.0,"Census Tract 5125.12, Santa Clara County, California",3650.0,0.38,9652.3,332
+,Census tract,6085512513.0,"Census Tract 5125.13, Santa Clara County, California",3860.0,0.49,7814.3,333
+,Census tract,6085512514.0,"Census Tract 5125.14, Santa Clara County, California",3005.0,0.3,9936.4,334
+,Census tract,6085512515.0,"Census Tract 5125.15, Santa Clara County, California",4805.0,3.99,1203.5,335
+,Census tract,6085512516.0,"Census Tract 5125.16, Santa Clara County, California",4229.0,1.26,3346.8,336
+,Census tract,6085512602.0,"Census Tract 5126.02, Santa Clara County, California",2696.0,37.52,71.8,337
+,Census tract,6085512603.0,"Census Tract 5126.03, Santa Clara County, California",4176.0,0.81,5178.2,338
+,Census tract,6085512604.0,"Census Tract 5126.04, Santa Clara County, California",4536.0,0.86,5295.2,339
+,Census tract,6085513000.0,"Census Tract 5130, Santa Clara County, California",9696.0,1.07,9101.6,340
+,Census tract,6085513500.0,"Census Tract 5135, Santa Clara County, California",1225.0,590.31,2.1,341
+,Census tract,6085500100.0,"Census Tract 5001, Santa Clara County, California",7074.0,0.74,9532.0,342
+,Census tract,6085500200.0,"Census Tract 5002, Santa Clara County, California",6285.0,0.65,9687.4,343
+,Census tract,6085500300.0,"Census Tract 5003, Santa Clara County, California",3789.0,1.11,3403.5,344
+,Census tract,6085500400.0,"Census Tract 5004, Santa Clara County, California",2712.0,0.39,6986.5,345
+,Census tract,6085500500.0,"Census Tract 5005, Santa Clara County, California",5732.0,0.82,6968.5,346
+,Census tract,6085508204.0,"Census Tract 5082.04, Santa Clara County, California",4704.0,0.39,11955.4,347
+,Census tract,6085500600.0,"Census Tract 5006, Santa Clara County, California",5713.0,0.52,11045.3,348
+,Census tract,6085508205.0,"Census Tract 5082.05, Santa Clara County, California",3663.0,0.48,7663.4,349
+,Census tract,6085500800.0,"Census Tract 5008, Santa Clara County, California",4482.0,0.67,6734.6,350
+,Census tract,6085508206.0,"Census Tract 5082.06, Santa Clara County, California",3704.0,0.53,6978.2,351
+,Census tract,6085508301.0,"Census Tract 5083.01, Santa Clara County, California",4587.0,0.76,6019.5,352
+,Census tract,6085508303.0,"Census Tract 5083.03, Santa Clara County, California",2534.0,0.48,5317.0,353
+,Census tract,6085508305.0,"Census Tract 5083.05, Santa Clara County, California",5623.0,0.16,34176.9,354
+,Census tract,6085508306.0,"Census Tract 5083.06, Santa Clara County, California",3019.0,0.34,8992.4,355
+,Census tract,6085508401.0,"Census Tract 5084.01, Santa Clara County, California",7695.0,0.96,8004.6,356
+,Census tract,6085508403.0,"Census Tract 5084.03, Santa Clara County, California",3084.0,0.49,6274.9,357
+,Census tract,6085508404.0,"Census Tract 5084.04, Santa Clara County, California",6352.0,0.72,8823.7,358
+,Census tract,6085508503.0,"Census Tract 5085.03, Santa Clara County, California",6235.0,0.57,10997.4,359
+,Census tract,6085508505.0,"Census Tract 5085.05, Santa Clara County, California",4998.0,0.45,11146.9,360
+,Census tract,6085508507.0,"Census Tract 5085.07, Santa Clara County, California",3230.0,0.15,22021.5,361
+,Census tract,6085508508.0,"Census Tract 5085.08, Santa Clara County, California",5660.0,0.41,13968.7,362
+,Census tract,6085508509.0,"Census Tract 5085.09, Santa Clara County, California",4318.0,0.21,20566.2,363
+,Census tract,6085508510.0,"Census Tract 5085.10, Santa Clara County, California",3782.0,0.28,13295.3,364
+,Census tract,6085508601.0,"Census Tract 5086.01, Santa Clara County, California",3762.0,0.51,7367.3,365
+,Census tract,6085508602.0,"Census Tract 5086.02, Santa Clara County, California",5153.0,0.52,9955.1,366
+,Census tract,6085508705.0,"Census Tract 5087.05, Santa Clara County, California",4031.0,0.24,17122.0,367
+,Census tract,6085508706.0,"Census Tract 5087.06, Santa Clara County, California",4196.0,0.33,12799.4,368
+,Census tract,6085508707.0,"Census Tract 5087.07, Santa Clara County, California",4144.0,0.43,9682.0,369
+,Census tract,6085508708.0,"Census Tract 5087.08, Santa Clara County, California",3880.0,1.89,2054.1,370
+,Census tract,6085508800.0,"Census Tract 5088, Santa Clara County, California",3850.0,0.27,14343.7,371
+,Census tract,6085508900.0,"Census Tract 5089, Santa Clara County, California",5324.0,0.35,15093.5,372
+,Census tract,6085509001.0,"Census Tract 5090.01, Santa Clara County, California",2696.0,0.33,8085.7,373
+,Census tract,6085509002.0,"Census Tract 5090.02, Santa Clara County, California",4424.0,0.26,17024.6,374
+,Census tract,6085509102.0,"Census Tract 5091.02, Santa Clara County, California",4888.0,1.21,4028.7,375
+,Census tract,6085509106.0,"Census Tract 5091.06, Santa Clara County, California",4067.0,0.38,10690.9,376
+,Census tract,6085509107.0,"Census Tract 5091.07, Santa Clara County, California",4969.0,0.18,27382.5,377
+,Census tract,6085509108.0,"Census Tract 5091.08, Santa Clara County, California",4146.0,0.88,4696.9,378
+,Census tract,6085509109.0,"Census Tract 5091.09, Santa Clara County, California",5885.0,0.81,7269.9,379
+,Census tract,6085509110.0,"Census Tract 5091.10, Santa Clara County, California",3012.0,0.23,12836.2,380
+,Census tract,6085509111.0,"Census Tract 5091.11, Santa Clara County, California",3659.0,0.37,9790.5,381
+,Census tract,6085509201.0,"Census Tract 5092.01, Santa Clara County, California",5979.0,0.61,9868.4,382
+,Census tract,6085509202.0,"Census Tract 5092.02, Santa Clara County, California",4429.0,0.6,7334.0,383
+,Census tract,6085509302.0,"Census Tract 5093.02, Santa Clara County, California",3549.0,0.41,8726.1,384
+,Census tract,6085509303.0,"Census Tract 5093.03, Santa Clara County, California",3699.0,0.22,16702.9,385
+,Census tract,6085509304.0,"Census Tract 5093.04, Santa Clara County, California",3197.0,0.6,5308.8,386
+,Census tract,6085509401.0,"Census Tract 5094.01, Santa Clara County, California",3994.0,0.26,15548.1,387
+,Census tract,6085509403.0,"Census Tract 5094.03, Santa Clara County, California",5534.0,0.2,27227.1,388
+,Census tract,6085509404.0,"Census Tract 5094.04, Santa Clara County, California",6398.0,0.4,15801.0,389
+,Census tract,6085509500.0,"Census Tract 5095, Santa Clara County, California",5321.0,0.38,14031.6,390
+,Census tract,6085509600.0,"Census Tract 5096, Santa Clara County, California",3562.0,0.4,8797.2,391
+,Census tract,6085509700.0,"Census Tract 5097, Santa Clara County, California",3087.0,0.4,7634.5,392
+,Census tract,6085509801.0,"Census Tract 5098.01, Santa Clara County, California",5489.0,0.65,8429.9,393
+,Census tract,6085509802.0,"Census Tract 5098.02, Santa Clara County, California",3056.0,0.36,8522.9,394
+,Census tract,6085509901.0,"Census Tract 5099.01, Santa Clara County, California",2294.0,0.54,4264.1,395
+,Census tract,6085509902.0,"Census Tract 5099.02, Santa Clara County, California",4925.0,0.86,5722.5,396
+,Census tract,6085510001.0,"Census Tract 5100.01, Santa Clara County, California",6264.0,1.36,4614.7,397
+,Census tract,6085500901.0,"Census Tract 5009.01, Santa Clara County, California",4326.0,0.28,15544.1,398
+,Census tract,6085500902.0,"Census Tract 5009.02, Santa Clara County, California",5064.0,0.09,54080.5,399
+,Census tract,6085501000.0,"Census Tract 5010, Santa Clara County, California",5156.0,0.31,16637.0,400
+,Census tract,6085510002.0,"Census Tract 5100.02, Santa Clara County, California",3827.0,0.74,5177.2,401
+,Census tract,6085510100.0,"Census Tract 5101, Santa Clara County, California",2989.0,0.78,3824.2,402
+,Census tract,6085510200.0,"Census Tract 5102, Santa Clara County, California",4699.0,1.04,4530.6,403
+,Census tract,6085510300.0,"Census Tract 5103, Santa Clara County, California",4307.0,0.9,4769.9,404
+,Census tract,6085510400.0,"Census Tract 5104, Santa Clara County, California",3875.0,0.66,5861.0,405
+,Census tract,6085510500.0,"Census Tract 5105, Santa Clara County, California",4438.0,1.01,4398.1,406
+,Census tract,6085510600.0,"Census Tract 5106, Santa Clara County, California",5663.0,0.8,7079.0,407
+,Census tract,6085510700.0,"Census Tract 5107, Santa Clara County, California",5169.0,0.56,9279.7,408
+,Census tract,6085510801.0,"Census Tract 5108.01, Santa Clara County, California",5837.0,0.85,6887.3,409
+,Census tract,6085510802.0,"Census Tract 5108.02, Santa Clara County, California",2061.0,0.36,5711.6,410
+,Census tract,6085510803.0,"Census Tract 5108.03, Santa Clara County, California",3259.0,0.39,8345.3,411
+,Census tract,6085510900.0,"Census Tract 5109, Santa Clara County, California",5392.0,0.64,8443.9,412
+,Census tract,6085511000.0,"Census Tract 5110, Santa Clara County, California",6630.0,0.77,8642.8,413
+,Census tract,6085511100.0,"Census Tract 5111, Santa Clara County, California",5610.0,0.85,6621.9,414
+,Census tract,6085511200.0,"Census Tract 5112, Santa Clara County, California",4978.0,0.8,6260.2,415
+,Census tract,6085511301.0,"Census Tract 5113.01, Santa Clara County, California",4228.0,0.38,11222.7,416
+,Census tract,6085511302.0,"Census Tract 5113.02, Santa Clara County, California",3943.0,0.39,10207.5,417
+,Census tract,6085511400.0,"Census Tract 5114, Santa Clara County, California",3496.0,0.59,5892.4,418
+,Census tract,6085511501.0,"Census Tract 5115.01, Santa Clara County, California",4738.0,0.59,8050.8,419
+,Census tract,6085511502.0,"Census Tract 5115.02, Santa Clara County, California",3178.0,0.75,4246.4,420
+,Census tract,6085511608.0,"Census Tract 5116.08, Santa Clara County, California",3326.0,0.95,3507.5,421
+,Census tract,6085511609.0,"Census Tract 5116.09, Santa Clara County, California",3473.0,0.59,5849.0,422
+,Census tract,6085511701.0,"Census Tract 5117.01, Santa Clara County, California",4249.0,3.55,1197.4,423
+,Census tract,6085511702.0,"Census Tract 5117.02, Santa Clara County, California",2649.0,1.02,2609.5,424
+,Census tract,6085511704.0,"Census Tract 5117.04, Santa Clara County, California",4585.0,5.94,771.4,425
+,Census tract,6085511705.0,"Census Tract 5117.05, Santa Clara County, California",1600.0,4.84,330.4,426
+,Census tract,6085511707.0,"Census Tract 5117.07, Santa Clara County, California",2955.0,43.61,67.8,427
+,Census tract,6085511800.0,"Census Tract 5118, Santa Clara County, California",4360.0,53.55,81.4,428
+,Census tract,6085511905.0,"Census Tract 5119.05, Santa Clara County, California",2959.0,0.49,6060.2,429
+,Census tract,6085511907.0,"Census Tract 5119.07, Santa Clara County, California",4303.0,0.67,6410.0,430
+,Census tract,6085511910.0,"Census Tract 5119.10, Santa Clara County, California",3106.0,0.88,3545.5,431
+,Census tract,6085511911.0,"Census Tract 5119.11, Santa Clara County, California",4893.0,14.11,346.7,432
+,Census tract,6085511912.0,"Census Tract 5119.12, Santa Clara County, California",5749.0,0.95,6079.8,433
+,Census tract,6085511913.0,"Census Tract 5119.13, Santa Clara County, California",4288.0,0.74,5772.9,434
+,Census tract,6085511914.0,"Census Tract 5119.14, Santa Clara County, California",6393.0,1.07,5963.1,435
+,Census tract,6085511915.0,"Census Tract 5119.15, Santa Clara County, California",4066.0,0.41,10015.0,436
+,Census tract,6085511916.0,"Census Tract 5119.16, Santa Clara County, California",4634.0,0.68,6810.7,437
+,Census tract,6085511917.0,"Census Tract 5119.17, Santa Clara County, California",4163.0,1.1,3770.9,438
+,Census tract,6085511918.0,"Census Tract 5119.18, Santa Clara County, California",3200.0,8.06,396.9,439
+,Census tract,6085512001.0,"Census Tract 5120.01, Santa Clara County, California",6099.0,7.74,788.0,440
+,Census tract,6085512005.0,"Census Tract 5120.05, Santa Clara County, California",6965.0,0.93,7451.2,441
+,Census tract,6085512019.0,"Census Tract 5120.19, Santa Clara County, California",4789.0,0.42,11500.2,442
+,Census tract,6085512021.0,"Census Tract 5120.21, Santa Clara County, California",6448.0,0.62,10456.4,443
+,Census tract,6085512022.0,"Census Tract 5120.22, Santa Clara County, California",6355.0,0.4,16025.2,444
+,Census tract,6085512023.0,"Census Tract 5120.23, Santa Clara County, California",5583.0,0.37,15236.1,445
+,Census tract,6085512024.0,"Census Tract 5120.24, Santa Clara County, California",5286.0,0.6,8814.0,446
+,Census tract,6085512025.0,"Census Tract 5120.25, Santa Clara County, California",3029.0,0.48,6286.2,447
+,Census tract,6085512026.0,"Census Tract 5120.26, Santa Clara County, California",3865.0,0.85,4536.8,448
+,Census tract,6085512027.0,"Census Tract 5120.27, Santa Clara County, California",4552.0,0.65,7039.0,449
+,Census tract,6085512029.0,"Census Tract 5120.29, Santa Clara County, California",8204.0,0.74,11160.1,450
+,Census tract,6085512030.0,"Census Tract 5120.30, Santa Clara County, California",3167.0,0.46,6882.9,451
+,Census tract,6085512031.0,"Census Tract 5120.31, Santa Clara County, California",4443.0,0.55,8015.1,452
+,Census tract,6085512032.0,"Census Tract 5120.32, Santa Clara County, California",2899.0,1.15,2529.2,453
+,Census tract,6085512034.0,"Census Tract 5120.34, Santa Clara County, California",2901.0,0.4,7203.5,454
+,Census tract,6085512035.0,"Census Tract 5120.35, Santa Clara County, California",4985.0,0.88,5651.4,455
+,Census tract,6085512036.0,"Census Tract 5120.36, Santa Clara County, California",4713.0,0.32,14703.9,456
+,Census tract,6085512037.0,"Census Tract 5120.37, Santa Clara County, California",3099.0,0.39,7961.5,457
+,Census tract,6085512038.0,"Census Tract 5120.38, Santa Clara County, California",3308.0,0.53,6209.2,458
+,Census tract,6085512039.0,"Census Tract 5120.39, Santa Clara County, California",6439.0,0.54,11980.9,459
+,Census tract,6085512042.0,"Census Tract 5120.42, Santa Clara County, California",3115.0,0.26,12162.5,460
+,Census tract,6085512043.0,"Census Tract 5120.43, Santa Clara County, California",5967.0,0.36,16756.5,461
+,Census tract,6085512045.0,"Census Tract 5120.45, Santa Clara County, California",5217.0,0.79,6595.9,462
+,Census tract,6085512047.0,"Census Tract 5120.47, Santa Clara County, California",5843.0,0.64,9151.6,463
+,Census tract,6085512052.0,"Census Tract 5120.52, Santa Clara County, California",4011.0,0.57,7059.2,464
+,Census tract,6085512053.0,"Census Tract 5120.53, Santa Clara County, California",4894.0,0.42,11600.9,465
+,Census tract,6085512054.0,"Census Tract 5120.54, Santa Clara County, California",4258.0,0.14,30447.7,466
+,Census tract,6085512055.0,"Census Tract 5120.55, Santa Clara County, California",3746.0,0.26,14325.3,467
+,Census tract,6085512056.0,"Census Tract 5120.56, Santa Clara County, California",4102.0,0.36,11241.7,468
+,Census tract,6085512057.0,"Census Tract 5120.57, Santa Clara County, California",4116.0,0.53,7772.7,469
+,Census tract,6085512058.0,"Census Tract 5120.58, Santa Clara County, California",4337.0,0.59,7320.3,470
+,Census tract,6085512059.0,"Census Tract 5120.59, Santa Clara County, California",6975.0,0.91,7655.5,471
+,Census tract,6085512100.0,"Census Tract 5121, Santa Clara County, California",1468.0,22.1,66.4,472
+,Census tract,6085512200.0,"Census Tract 5122, Santa Clara County, California",3837.0,101.41,37.8,473
+,Census tract,6085512305.0,"Census Tract 5123.05, Santa Clara County, California",4555.0,6.46,704.7,474
+,Census tract,6085512307.0,"Census Tract 5123.07, Santa Clara County, California",7151.0,2.11,3387.7,475
+,Census tract,6085512308.0,"Census Tract 5123.08, Santa Clara County, California",8661.0,5.4,1605.1,476
+,Census tract,6085512309.0,"Census Tract 5123.09, Santa Clara County, California",5102.0,3.53,1446.3,477
+,Census tract,6085512310.0,"Census Tract 5123.10, Santa Clara County, California",5328.0,1.53,3474.3,478
+,Census tract,6085512311.0,"Census Tract 5123.11, Santa Clara County, California",3931.0,2.12,1856.1,479
+,Census tract,6085512312.0,"Census Tract 5123.12, Santa Clara County, California",3649.0,0.54,6776.9,480
+,Census tract,6085512313.0,"Census Tract 5123.13, Santa Clara County, California",3627.0,1.01,3574.2,481
+"Title: Population density, Santa Clara County",,,,,,,482
+Notes: Population density is defined as number of people residing per square mile of area. Data are presented for zip codes (ZCTAs) fully within the county.,,,,,,,483
+"Source: U.S. Census Bureau, 2016-2020 American Community Survey 5-year estimates, Table B01001; data accessed on April 11, 2022 from https://api.census.gov. The 2020 Decennial geographies are used for data summarization.",,,,,,,484

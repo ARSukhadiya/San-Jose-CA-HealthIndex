@@ -1,0 +1,16 @@
+Flask
+plotly
+pandas
+xgboost
+scikit-learn
+joblib
+kaleido
+matplotlib
+pandas
+pickleshare
+pillow
+plotly
+scikit-learn
+scipy
+seaborn
+xgboost
